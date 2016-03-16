@@ -281,10 +281,11 @@ class Builder :
 
             with open(dot_file, u'wb') as f :
                 f.write(Graph(graph).dump().encode(u'utf-8'))
-
+/*
             cmd = u'dot "%s" -T%s -o"%s"' % (dot_file, file_type, output_file)
             if self._exec(cmd) != 0 :
                 _raise_err(u'Make "%s" failed!', dot_file)
+*/                
         return 0
 
 
