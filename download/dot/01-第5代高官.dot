@@ -1,0 +1,188 @@
+
+digraph 第5代高官
+{
+	rankdir = "LR";
+	ranksep = 0.5;
+	label = "第5代高官";
+	labelloc = "t";
+	fontsize = "24";
+	fontname = "SimHei";
+
+	graph [style="filled", color="lightgrey"];
+	node [fontname="SimSun"];
+	edge [fontname="SimSun"];
+
+	刘延东 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘延东 [1945]</td></tr><tr><td><img src="../data/person/刘延东/portrait.png"/></td></tr><tr><td>刘瑞龙之女、杨显东儿媳<br/>副总理<br/>中共中央统战部长<br/>政治局委员<br/></td></tr></table>>];
+	刘瑞龙 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘瑞龙 [1910]</td></tr><tr><td><img src="../data/person/刘瑞龙/portrait.png"/></td></tr><tr><td>红四方面军政治部宣传部长<br/>第三野战军后勤部政委<br/>国家农业部副部长<br/></td></tr></table>>];
+	刘延淮 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘延淮</td></tr><tr><td><img src="../data/person/刘延淮/portrait.png"/></td></tr><tr><td>北京东方灵盾科技董事长/总裁<br/></td></tr></table>>];
+	刘延申 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘延申</td></tr><tr><td></td></tr><tr><td>香港皇裕国际董事<br/></td></tr></table>>];
+	刘延宁 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘延宁</td></tr><tr><td></td></tr><tr><td>国家信息中心党办主任<br/></td></tr></table>>];
+	杨元惺 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨元惺 [1942]</td></tr><tr><td></td></tr><tr><td>刘延东之夫、杨显东之子、刘瑞龙女婿<br/>中国艺术摄影学会主席<br/>北京鲁艺房地产董事长<br/></td></tr></table>>];
+	江上青 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>江上青 [1911]</td></tr><tr><td></td></tr><tr><td>江泽民嗣父<br/>中共老党员<br/>安徽第五游击纵队政治部主任<br/>(江泽民是其嗣子，非亲生)<br/></td></tr></table>>];
+	杨帆 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨帆 [1972]</td></tr><tr><td></td></tr><tr><td>刘延东之女<br/></td></tr></table>>];
+	冯琦 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>冯琦</td></tr><tr><td></td></tr><tr><td>TOM.com 董事<br/></td></tr></table>>];
+	李源潮 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李源潮 [1950]</td></tr><tr><td><img src="../data/person/李源潮/portrait.png"/></td></tr><tr><td>国家副主席<br/>中组部部长<br/>政治局委员<br/></td></tr></table>>];
+	李干成 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李干成 [1908]</td></tr><tr><td>(原名:李慈)</td></tr><tr><td><img src="../data/person/李干成/portrait.png"/></td></tr><tr><td>上海副市长、市委常委<br/>江苏常州地委第一副书记<br/></td></tr></table>>];
+	李海进 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李海进</td></tr><tr><td></td></tr><tr><td>留学美国耶鲁大学<br/></td></tr></table>>];
+	张磊 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张磊</td></tr><tr><td><img src="../data/person/张磊/portrait.png"/></td></tr><tr><td>高瓴资本管理有限公司(Hillhouse Capital)创始人<br/>2010年向耶鲁管理学院捐赠8,888,888(888万)美元<br/>创耶鲁管理学院史上最高的个人捐款记录<br/>在其推荐下，李源潮的儿子李海进被耶鲁录取<br/></td></tr></table>>];
+	张高丽 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张高丽 [1946]</td></tr><tr><td><img src="../data/person/张高丽/portrait.png"/></td></tr><tr><td>历任广东、山东、天津一把手<br/>政治局常委<br/></td></tr></table>>];
+	张晓燕 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>张晓燕</td></tr><tr><td>(英文名:Annie)</td></tr><tr><td></td></tr><tr><td>张高丽之女、李贤义儿媳<br/></td></tr></table>>];
+	李圣泼 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李圣泼 [1977]</td></tr><tr><td><img src="../data/person/李圣泼/portrait.png"/></td></tr><tr><td>李贤义之子、张高丽女婿<br/>信义投资董事长<br/>圣德集团主席<br/>汇科公司董事长<br/>浩天投资董事长<br/>深圳市企业家协会副会长<br/></td></tr></table>>];
+	李贤义 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李贤义 [1952]</td></tr><tr><td><img src="../data/person/李贤义/portrait.png"/></td></tr><tr><td>信义集团董事局主席<br/>全国政协委员<br/>(玻璃大王)<br/></td></tr></table>>];
+	姚依林 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>姚依林 [1917]</td></tr><tr><td><img src="../data/person/姚依林/portrait.png"/></td></tr><tr><td>政治局常委<br/>副总理<br/></td></tr></table>>];
+	姚明伟 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>姚明伟 [1947]</td></tr><tr><td></td></tr><tr><td>机械工业部副部长<br/></td></tr></table>>];
+	姚明珊 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>姚明珊</td></tr><tr><td></td></tr><tr><td>姚依林之女、王岐山之妻<br/></td></tr></table>>];
+	王岐山 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王岐山 [1948]</td></tr><tr><td><img src="../data/person/王岐山/portrait.png"/></td></tr><tr><td>姚依林女婿<br/>副总理<br/>中纪委书记<br/>政治局常委<br/></td></tr></table>>];
+	姚明端 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>姚明端</td></tr><tr><td></td></tr><tr><td>姚依林之女、孟学农之妻<br/></td></tr></table>>];
+	孟学农 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孟学农 [1949]</td></tr><tr><td><img src="../data/person/孟学农/portrait.png"/></td></tr><tr><td>姚依林女婿<br/>北京市长<br/>山西省省长<br/>全国政协常委<br/></td></tr></table>>];
+	刘云山 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘云山 [1947]</td></tr><tr><td><img src="../data/person/刘云山/portrait.png"/></td></tr><tr><td>中宣部部长<br/>政治局常委<br/></td></tr></table>>];
+	刘乐飞 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘乐飞 [1973]</td></tr><tr><td><img src="../data/person/刘乐飞/portrait.png"/></td></tr><tr><td>刘云山之子、贾春旺女婿<br/>中信产业投资基金董事长、首席执行官<br/>中国人寿投资部总经理、首席投资官<br/>(管理资金超千亿￥)<br/></td></tr></table>>];
+	贾丽青 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>贾丽青</td></tr><tr><td></td></tr><tr><td>贾春旺之女、刘云山儿媳<br/></td></tr></table>>];
+	俞正声 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>俞正声 [1945]</td></tr><tr><td><img src="../data/person/俞正声/portrait.png"/></td></tr><tr><td>黄敬之子、张震寰女婿<br/>全国政协主席<br/>历任上海、湖北一把手<br/>政治局常委<br/></td></tr></table>>];
+	黄敬 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>黄敬 [1912]</td></tr><tr><td>(原名:俞启威)</td></tr><tr><td><img src="../data/person/黄敬/portrait.png"/></td></tr><tr><td>中共元老<br/>天津第一任市委书记<br/>国家一机部部长<br/>江青首任男友(未婚同居)、入党介绍人<br/></td></tr></table>>];
+	范瑾 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>范瑾</td></tr><tr><td><img src="../data/person/范瑾/portrait.png"/></td></tr><tr><td>北京市副市长<br/>《北京日报》社社长<br/></td></tr></table>>];
+	俞强声 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>俞强声</td></tr><tr><td></td></tr><tr><td>国家安全部北美情报司司长<br/>1986年叛逃美国<br/></td></tr></table>>];
+	俞慈声 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>俞慈声</td></tr><tr><td></td></tr><tr><td>北辰实业集团副总经理(房地产、上市)<br/>北京信息化办公室副主任<br/></td></tr></table>>];
+	张志凯 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>张志凯</td></tr><tr><td></td></tr><tr><td>张震寰之女、黄敬儿媳、俞正声之妻<br/></td></tr></table>>];
+	江青 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>江青 [1914]</td></tr><tr><td>(原名:李云鹤)</td></tr><tr><td><img src="../data/person/江青/portrait.png"/></td></tr><tr><td>毛泽东之妻(第4任)<br/>政治局委员<br/>中央文革小组组长<br/>臭名昭著的四人帮之首<br/></td></tr></table>>];
+	张德江 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张德江 [1946]</td></tr><tr><td><img src="../data/person/张德江/portrait.png"/></td></tr><tr><td>全国人大委员长<br/>副总理<br/>政治局常委<br/></td></tr></table>>];
+	辛树森 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>辛树森 [1949]</td></tr><tr><td><img src="../data/person/辛树森/portrait.png"/></td></tr><tr><td>中国建设银行副行长、纪委书记<br/></td></tr></table>>];
+	李克强 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李克强 [1955]</td></tr><tr><td><img src="../data/person/李克强/portrait.png"/></td></tr><tr><td>总理<br/>政治局常委<br/></td></tr></table>>];
+	程虹 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>程虹 [1957]</td></tr><tr><td><img src="../data/person/程虹/portrait.png"/></td></tr><tr><td>首都经贸大学学术委员会委员<br/></td></tr></table>>];
+	程金瑞 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>程金瑞</td></tr><tr><td></td></tr><tr><td>共青团河南省委副书记<br/>国务院扶贫办顾问(副部级)<br/></td></tr></table>>];
+	李克明 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李克明</td></tr><tr><td></td></tr><tr><td>国家烟草局副局长<br/></td></tr></table>>];
+	李克平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李克平</td></tr><tr><td></td></tr><tr><td>安徽省计委副厅长<br/></td></tr></table>>];
+	李晓晴 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李晓晴</td></tr><tr><td></td></tr><tr><td>安徽省国资委信息中心主任<br/></td></tr></table>>];
+	习近平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>习近平 [1953]</td></tr><tr><td><img src="../data/person/习近平/portrait.png"/></td></tr><tr><td>习仲勋之子<br/>中共第五代掌门<br/>中共总书记<br/>中央军委主席<br/>国家主席<br/></td></tr></table>>];
+	习仲勋 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>习仲勋 [1913]</td></tr><tr><td><img src="../data/person/习仲勋/portrait.png"/></td></tr><tr><td>中共元老<br/>副总理<br/>中宣部部长<br/>邓小平时代的八元老之一<br/></td></tr></table>>];
+	彭丽媛 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>彭丽媛 [1962]</td></tr><tr><td><img src="../data/person/彭丽媛/portrait.png"/></td></tr><tr><td>总政治部歌舞团团长<br/>解放军艺术学院院长<br/>少将军衔<br/></td></tr></table>>];
+	习明泽 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>习明泽 [1991]</td></tr><tr><td><img src="../data/person/习明泽/portrait.png"/></td></tr><tr><td>留学美国哈佛大学<br/>(此图取自官方公布的照片)<br/></td></tr></table>>];
+	习正宁 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>习正宁 [1941]</td></tr><tr><td>(原名:习富平)</td></tr><tr><td></td></tr><tr><td>陕西省委组织部副部长<br/>海南省政法委书记<br/></td></tr></table>>];
+	习远平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>习远平 [1956]</td></tr><tr><td><img src="../data/person/习远平/portrait.png"/></td></tr><tr><td>国际节能环保协会会长<br/>香港籍、澳洲绿卡<br/></td></tr></table>>];
+	习桥桥 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>习桥桥 [1949]</td></tr><tr><td>(曾用名:齐桥桥)</td></tr><tr><td><img src="../data/person/习桥桥/portrait.png"/></td></tr><tr><td>北京中民信房地产董事长<br/>江西稀土稀有金属钨业集团大股东(18%)<br/>万达集团早期股东<br/></td></tr></table>>];
+	邓家贵 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓家贵 [1951]</td></tr><tr><td><img src="../data/person/邓家贵/portrait.png"/></td></tr><tr><td>陕西远为实业法人<br/>陕西远为房地产法人<br/>深圳远为投资法人<br/>万达集团早期股东<br/>(此人是多家公司的法人代表，<br/>限于篇幅，不逐一列出)<br/></td></tr></table>>];
+	张燕南 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>张燕南 [1979]</td></tr><tr><td>(英文名:Cheung Yin-Nam)</td></tr><tr><td></td></tr><tr><td>北京合康亿盛变频第四大股东<br/>香港有多处豪宅<br/>(其生父是习桥桥前夫，姓张)<br/></td></tr></table>>];
+	习安安 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>习安安</td></tr><tr><td>(曾用名:齐安安)</td></tr><tr><td></td></tr><tr><td>大唐移动通信实际拥有人<br/>移民澳洲<br/></td></tr></table>>];
+	吴龙 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>吴龙</td></tr><tr><td></td></tr><tr><td>新邮通信董事长<br/>(中移动TDSCDMA招标，大唐获25%份额，新邮通获10%)<br/>移民澳洲<br/></td></tr></table>>];
+	吴雅凝 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>吴雅凝</td></tr><tr><td>(英文名:Hiu Ng)</td></tr><tr><td><img src="../data/person/吴雅凝/portrait.png"/></td></tr><tr><td>51Give网站创始人<br/>吉森资本主席、首席执行官<br/>哈德森清洁能源中国公司副董事长<br/></td></tr></table>>];
+	DanielFoa [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>Daniel Foa [1977]</td></tr><tr><td>(中文名:福大牛)</td></tr><tr><td><img src="../data/person/DanielFoa/portrait.png"/></td></tr><tr><td>英国商人<br/></td></tr></table>>];
+	习仲恺 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>习仲恺</td></tr><tr><td></td></tr><tr><td>陕西省委组织部部长<br/></td></tr></table>>];
+	万达集团 [shape="ellipse", color="green", label=<<table border="0" cellborder="0"><tr><td>万达集团</td></tr><tr><td></td></tr><tr><td>全称“大连万达集团股份有限公司”<br/>老板王健林2009年开始跻身富豪榜前十<br/>并在2013年成为中国首富<br/>多个朝廷权贵及家属是万达的早期股东<br/></td></tr></table>>];
+
+	刘瑞龙 -> 江上青 [label="介绍入党", style=dotted, color="blue"];
+	刘瑞龙 -> 刘延东 [label="女", style=solid, color="red"];
+	刘延东 -> 杨元惺 [label="夫", style=bold, color="blue"];
+	刘延东 -> 杨帆 [label="女", style=solid, color="red"];
+	杨元惺 -> 杨帆 [label="女", style=solid, color="red"];
+	杨帆 -> 冯琦 [label="夫", style=bold, color="blue"];
+	刘瑞龙 -> 刘延淮 [label="长女", style=solid, color="red"];
+	刘瑞龙 -> 刘延申 [label="子", style=solid, color="blue"];
+	刘瑞龙 -> 刘延宁 [label="女", style=solid, color="red"];
+	李干成 -> 李源潮 [label="子", style=solid, color="blue"];
+	李源潮 -> 李海进 [label="子", style=solid, color="blue"];
+	李海进 -> 张磊 [label="入学耶鲁推荐人", style=dotted, color="blue"];
+	张高丽 -> 张晓燕 [label="女", style=solid, color="red"];
+	张晓燕 -> 李圣泼 [label="夫", style=bold, color="blue"];
+	李贤义 -> 李圣泼 [label="子", style=solid, color="blue"];
+	姚依林 -> 姚明伟 [label="子", style=solid, color="blue"];
+	姚依林 -> 姚明珊 [label="女", style=solid, color="red"];
+	姚明珊 -> 王岐山 [label="夫", style=bold, color="blue"];
+	姚依林 -> 姚明端 [label="女", style=solid, color="red"];
+	姚明端 -> 孟学农 [label="夫", style=bold, color="blue"];
+	刘云山 -> 刘乐飞 [label="独子", style=solid, color="blue"];
+	刘乐飞 -> 贾丽青 [label="妻", style=bold, color="red"];
+	黄敬 -> 范瑾 [label="妻", style=bold, color="red"];
+	黄敬 -> 俞强声 [label="长子", style=solid, color="blue"];
+	黄敬 -> 俞正声 [label="三子", style=solid, color="blue"];
+	俞正声 -> 张志凯 [label="妻", style=bold, color="red"];
+	黄敬 -> 俞慈声 [label="女", style=solid, color="red"];
+	黄敬 -> 江青 [label="同居女友", style=dotted, color="red"];
+	张德江 -> 辛树森 [label="妻", style=bold, color="red"];
+	李克强 -> 程虹 [label="妻", style=bold, color="red"];
+	程金瑞 -> 程虹 [label="女", style=solid, color="red"];
+	李克强 -> 李克平 [label="同父异母兄", style=dashed, color="blue"];
+	李克强 -> 李克明 [label="弟", style=dashed, color="blue"];
+	李克强 -> 李晓晴 [label="姐", style=dashed, color="red"];
+	习仲勋 -> 习正宁 [label="长子", style=solid, color="blue"];
+	习仲勋 -> 习近平 [label="次子", style=solid, color="blue"];
+	习近平 -> 彭丽媛 [label="妻", style=bold, color="red"];
+	习近平 -> 习明泽 [label="独女", style=solid, color="red"];
+	彭丽媛 -> 习明泽 [label="独女", style=solid, color="red"];
+	习仲勋 -> 习远平 [label="三子", style=solid, color="blue"];
+	习仲勋 -> 习桥桥 [label="长女", style=solid, color="red"];
+	习桥桥 -> 邓家贵 [label="夫", style=bold, color="blue"];
+	习桥桥 -> 张燕南 [label="女", style=solid, color="red"];
+	习仲勋 -> 习安安 [label="次女", style=solid, color="red"];
+	习安安 -> 吴龙 [label="夫", style=bold, color="blue"];
+	吴龙 -> 吴雅凝 [label="女", style=solid, color="red"];
+	习安安 -> 吴雅凝 [label="女", style=solid, color="red"];
+	吴雅凝 -> DanielFoa [label="夫", style=bold, color="blue"];
+	习仲勋 -> 习仲恺 [label="弟", style=dashed, color="blue"];
+	习桥桥 -> 万达集团 [label="早期股东", style=dotted, color="green"];
+	邓家贵 -> 万达集团 [label="早期股东", style=dotted, color="green"];
+
+
+	subgraph "cluster_刘延东"
+	{
+		fontsize="18";
+		label="刘延东家族";
+		刘延东;刘瑞龙;刘延淮;刘延申;刘延宁;
+	}
+
+	subgraph "cluster_李源潮"
+	{
+		fontsize="18";
+		label="李源潮家族";
+		李源潮;李干成;李海进;
+	}
+
+	subgraph "cluster_张高丽"
+	{
+		fontsize="18";
+		label="张高丽家族";
+		张高丽;张晓燕;李圣泼;李贤义;
+	}
+
+	subgraph "cluster_姚依林"
+	{
+		fontsize="18";
+		label="姚依林家族";
+		姚依林;姚明伟;姚明珊;王岐山;姚明端;孟学农;
+	}
+
+	subgraph "cluster_刘云山"
+	{
+		fontsize="18";
+		label="刘云山家族";
+		刘云山;刘乐飞;
+	}
+
+	subgraph "cluster_俞正声"
+	{
+		fontsize="18";
+		label="俞正声家族";
+		俞正声;黄敬;范瑾;俞强声;俞慈声;
+	}
+
+	subgraph "cluster_张德江"
+	{
+		fontsize="18";
+		label="张德江家族";
+		张德江;辛树森;
+	}
+
+	subgraph "cluster_李克强"
+	{
+		fontsize="18";
+		label="李克强家族";
+		李克强;程虹;程金瑞;李克明;李克平;李晓晴;
+	}
+
+	subgraph "cluster_习近平"
+	{
+		fontsize="18";
+		label="习近平家族";
+		习近平;习仲勋;彭丽媛;习明泽;习正宁;习远平;习桥桥;邓家贵;张燕南;习安安;吴龙;吴雅凝;DanielFoa;习仲恺;
+	}
+
+}

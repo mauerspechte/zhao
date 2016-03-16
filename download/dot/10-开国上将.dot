@@ -1,0 +1,240 @@
+
+digraph 开国上将
+{
+	rankdir = "LR";
+	ranksep = 0.5;
+	label = "开国上将";
+	labelloc = "t";
+	fontsize = "24";
+	fontname = "SimHei";
+
+	graph [style="filled", color="lightgrey"];
+	node [fontname="SimSun"];
+	edge [fontname="SimSun"];
+
+	乌兰夫 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>乌兰夫 [1906]</td></tr><tr><td><img src="../data/person/乌兰夫/portrait.png"/></td></tr><tr><td>开国上将<br/>国家副主席<br/>副总理<br/></td></tr></table>>];
+	布赫 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>布赫 [1926]</td></tr><tr><td>(曾用名:云曙光)</td></tr><tr><td></td></tr><tr><td>内蒙古自治区政府主席<br/>全国人大副委员长<br/></td></tr></table>>];
+	布小林 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>布小林 [1958]</td></tr><tr><td></td></tr><tr><td>内蒙古自治区党委常委<br/>内蒙古自治区政府主席<br/></td></tr></table>>];
+	乌杰 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>乌杰</td></tr><tr><td></td></tr><tr><td>山西省副省长<br/></td></tr></table>>];
+	云曙碧 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>云曙碧</td></tr><tr><td></td></tr><tr><td>内蒙古自治区卫生厅厅长<br/>内蒙古自治区红十字会会长<br/></td></tr></table>>];
+	吕正操 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>吕正操 [1904]</td></tr><tr><td></td></tr><tr><td>开国上将<br/>全国政协副主席<br/>铁道部部长<br/></td></tr></table>>];
+	吕彤岩 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>吕彤岩</td></tr><tr><td></td></tr><tr><td>吕正操之女、叶剑英侄媳<br/></td></tr></table>>];
+	叶选基 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>叶选基 [1940]</td></tr><tr><td></td></tr><tr><td>叶剑英侄子、吕正操女婿<br/>香港国叶集团主席<br/>香港中信集团总经理<br/>正天科技集团董事长<br/></td></tr></table>>];
+	洪学智 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>洪学智 [1913]</td></tr><tr><td><img src="../data/person/洪学智/portrait.png"/></td></tr><tr><td>开国上将<br/>全国政协副主席<br/></td></tr></table>>];
+	洪虎 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>洪虎 [1940]</td></tr><tr><td></td></tr><tr><td>吉林省省长<br/></td></tr></table>>];
+	洪豹 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>洪豹</td></tr><tr><td></td></tr><tr><td>天津警备区副司令员<br/>少将军衔<br/></td></tr></table>>];
+	张爱萍 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张爱萍 [1910]</td></tr><tr><td><img src="../data/person/张爱萍/portrait.png"/></td></tr><tr><td>开国上将<br/>副总理<br/>国防部长<br/></td></tr></table>>];
+	张翔 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张翔</td></tr><tr><td></td></tr><tr><td>解放军二炮副司令员<br/>中将军衔<br/></td></tr></table>>];
+	张胜 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张胜</td></tr><tr><td></td></tr><tr><td>总参谋部军训部训练局局长<br/></td></tr></table>>];
+	刘翰妮 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘翰妮</td></tr><tr><td></td></tr><tr><td>北京大广联商城总裁<br/></td></tr></table>>];
+	张品 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张品</td></tr><tr><td></td></tr><tr><td>(国防工办所属)新时代公司副总经理<br/>大校军衔<br/></td></tr></table>>];
+	杨勇 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨勇 [1913]</td></tr><tr><td></td></tr><tr><td>开国上将<br/>副总参谋长<br/>北京军区司令<br/></td></tr></table>>];
+	杨小平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨小平</td></tr><tr><td></td></tr><tr><td>总参谋部通信部部长<br/>少将军衔<br/></td></tr></table>>];
+	杨冀平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨冀平</td></tr><tr><td></td></tr><tr><td>重庆警备区司令<br/>天津警备区副司令<br/>少将军衔<br/></td></tr></table>>];
+	叶飞 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>叶飞 [1914]</td></tr><tr><td><img src="../data/person/叶飞/portrait.png"/></td></tr><tr><td>最年轻的开国上将<br/>全国人大副委员长<br/></td></tr></table>>];
+	叶小楠 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>叶小楠</td></tr><tr><td></td></tr><tr><td>叶飞之女、江华儿媳<br/>厦门市计委主任<br/></td></tr></table>>];
+	叶之英 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>叶之英</td></tr><tr><td></td></tr><tr><td>厦门市副市长<br/></td></tr></table>>];
+	江小华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>江小华</td></tr><tr><td></td></tr><tr><td>江华之子、叶飞女婿<br/>武警水电指挥部副参谋长<br/>大校军衔<br/></td></tr></table>>];
+	赖传珠 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>赖传珠 [1910]</td></tr><tr><td></td></tr><tr><td>开国上将<br/>新四军参谋长<br/>北京军区政委<br/></td></tr></table>>];
+	赖小鹏 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>赖小鹏 [1941]</td></tr><tr><td></td></tr><tr><td>导弹驱逐舰舰长<br/>大校军衔<br/>新四军研究会副会长<br/></td></tr></table>>];
+	赖克游 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>赖克游 [1948]</td></tr><tr><td></td></tr><tr><td>赖传珠之子、罗荣桓女婿<br/>中国国际体育旅游公司董事长<br/></td></tr></table>>];
+	赖小津 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>赖小津</td></tr><tr><td></td></tr><tr><td>北京军区政治部高级军官<br/></td></tr></table>>];
+	罗北捷 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>罗北捷 [1949]</td></tr><tr><td></td></tr><tr><td>罗荣桓之女、赖传珠儿媳<br/>解放军304医院心内科主任<br/></td></tr></table>>];
+	杨成武 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨成武 [1914]</td></tr><tr><td><img src="../data/person/杨成武/portrait.png"/></td></tr><tr><td>开国上将<br/>代总参谋长<br/></td></tr></table>>];
+	杨东胜 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨东胜</td></tr><tr><td></td></tr><tr><td>二炮装备部副部长<br/>少将军衔<br/></td></tr></table>>];
+	杨东明 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨东明</td></tr><tr><td></td></tr><tr><td>杨成武之子、秦基伟女婿<br/>空军副司令员<br/>中将军衔<br/></td></tr></table>>];
+	杨东成 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨东成</td></tr><tr><td></td></tr><tr><td>国家商业部政策研究室副主任<br/>香港华闽集团董事长<br/>福建华闽实业董事长<br/></td></tr></table>>];
+	杨俊生 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨俊生 [1941]</td></tr><tr><td></td></tr><tr><td>武警装备部部长、科技开发部主任<br/>少将军衔<br/></td></tr></table>>];
+	杨东荣 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨东荣</td></tr><tr><td></td></tr><tr><td>总政治部老干局大校<br/>大校军衔<br/></td></tr></table>>];
+	杨杨 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨杨</td></tr><tr><td></td></tr><tr><td>武警总院主任<br/></td></tr></table>>];
+	秦畹江 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>秦畹江</td></tr><tr><td></td></tr><tr><td>秦基伟长女、杨成武儿媳<br/></td></tr></table>>];
+	李克农 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李克农 [1899]</td></tr><tr><td><img src="../data/person/李克农/portrait.png"/></td></tr><tr><td>开国上将<br/>副总参谋长<br/>中共中央社会部部长<br/></td></tr></table>>];
+	李治 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李治</td></tr><tr><td></td></tr><tr><td>中央办公厅局级领导<br/></td></tr></table>>];
+	李力 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李力 [1925]</td></tr><tr><td></td></tr><tr><td>总参谋部通信部副部长<br/></td></tr></table>>];
+	李伦 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李伦</td></tr><tr><td></td></tr><tr><td>总后勤部副部长<br/>中将军衔<br/></td></tr></table>>];
+	李宁 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李宁 [1918]</td></tr><tr><td></td></tr><tr><td>中央党校教授<br/></td></tr></table>>];
+	李冰 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李冰 [1920]</td></tr><tr><td></td></tr><tr><td>中国医学科学院肿瘤医院党委书记、副院长<br/></td></tr></table>>];
+	许世友 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>许世友 [1905]</td></tr><tr><td><img src="../data/person/许世友/portrait.png"/></td></tr><tr><td>开国上将<br/>南京军区司令<br/>广州军区司令<br/></td></tr></table>>];
+	许光 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>许光 [1929]</td></tr><tr><td></td></tr><tr><td>海军北海舰队舰长<br/></td></tr></table>>];
+	许建军 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>许建军</td></tr><tr><td></td></tr><tr><td>南京空军司令部团级参谋<br/></td></tr></table>>];
+	许援朝 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>许援朝 [1951]</td></tr><tr><td><img src="../data/person/许援朝/portrait.png"/></td></tr><tr><td>江苏省军区司令员<br/>南京军区装备部副部长<br/>少将军衔<br/></td></tr></table>>];
+	王震 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王震 [1908]</td></tr><tr><td><img src="../data/person/王震/portrait.png"/></td></tr><tr><td>开国上将<br/>副总理<br/>邓小平时代的八元老之一<br/></td></tr></table>>];
+	王兵 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王兵</td></tr><tr><td></td></tr><tr><td>中国海洋直升机集团董事长<br/></td></tr></table>>];
+	王京阳 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王京阳</td></tr><tr><td></td></tr><tr><td>王震之孙、叶剑英孙女婿<br/>北京掌上网科技董事长<br/></td></tr></table>>];
+	王军 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王军 [1941]</td></tr><tr><td><img src="../data/person/王军/portrait.png"/></td></tr><tr><td>中信公司总经理、董事长<br/>中国保利集团董事长<br/></td></tr></table>>];
+	王安妮 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>王安妮 [1966]</td></tr><tr><td></td></tr><tr><td>王军第2任妻、王成彬侄孙女<br/>房地产商<br/>加拿大籍<br/></td></tr></table>>];
+	王京京 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>王京京 [1968]</td></tr><tr><td></td></tr><tr><td>中信集团中洲控股公司董事局副主席<br/>中科环保电力副主席<br/></td></tr></table>>];
+	王京军 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王京军 [1988]</td></tr><tr><td></td></tr><tr><td>留学加拿大<br/></td></tr></table>>];
+	王之 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王之</td></tr><tr><td></td></tr><tr><td>长城计算机总经理<br/></td></tr></table>>];
+	叶静子 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>叶静子 [1975]</td></tr><tr><td></td></tr><tr><td>叶剑英孙女、王震孙媳妇<br/>星际文化集团创始人、总裁<br/></td></tr></table>>];
+	保利集团 [shape="ellipse", color="green", label=<<table border="0" cellborder="0"><tr><td>保利集团</td></tr><tr><td>(中国保利集团公司)</td></tr><tr><td></td></tr><tr><td>1983年由总参谋部与中信合办“保利科技公司”<br/>1992年升格为“中国保利集团公司”<br/>主要业务：军火进出口、房地产、矿产开发<br/>2000年61家资产过百亿国企之一<br/></td></tr></table>>];
+	宋任穷 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>宋任穷 [1909]</td></tr><tr><td><img src="../data/person/宋任穷/portrait.png"/></td></tr><tr><td>开国上将<br/>中组部部长<br/>全国政协副主席<br/></td></tr></table>>];
+	宋克荒 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>宋克荒</td></tr><tr><td></td></tr><tr><td>北京置业地产总裁<br/></td></tr></table>>];
+	宋勤 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>宋勤</td></tr><tr><td></td></tr><tr><td>中国煤炭进出口集团党委书记、副董事长<br/></td></tr></table>>];
+	黄德生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>黄德生</td></tr><tr><td></td></tr><tr><td>百年树人集团副总裁<br/></td></tr></table>>];
+	宋彬彬 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>宋彬彬</td></tr><tr><td><img src="../data/person/宋彬彬/portrait.png"/></td></tr><tr><td>文革初期知名红卫兵领袖<br/>美国籍<br/></td></tr></table>>];
+	宋珍珍 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>宋珍珍</td></tr><tr><td></td></tr><tr><td>宋任穷之女、陈云儿媳<br/>美国籍<br/></td></tr></table>>];
+	陈方 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈方</td></tr><tr><td></td></tr><tr><td>陈云之子、宋任穷女婿<br/>广东中山实业公司经理<br/>美国籍<br/></td></tr></table>>];
+	张宗逊 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张宗逊 [1908]</td></tr><tr><td></td></tr><tr><td>开国上将<br/>副总参谋长<br/>总后勤部部长<br/></td></tr></table>>];
+	张又侠 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张又侠 [1950]</td></tr><tr><td></td></tr><tr><td>总装备部部长<br/>上将军衔<br/></td></tr></table>>];
+	萧克 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>萧克 [1907]</td></tr><tr><td>(原名:武毅)</td></tr><tr><td><img src="../data/person/萧克/portrait.png"/></td></tr><tr><td>开国上将<br/>全国政协副主席<br/>国防部副部长<br/></td></tr></table>>];
+	蹇先佛 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>蹇先佛</td></tr><tr><td></td></tr><tr><td>蹇先任之妹、萧克之妻<br/></td></tr></table>>];
+	肖纪龙 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>肖纪龙</td></tr><tr><td></td></tr><tr><td>北京石刻艺术博物馆党支部书记<br/></td></tr></table>>];
+	肖星华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>肖星华 [1940]</td></tr><tr><td></td></tr><tr><td>武警总部原纪委书记<br/>少将军衔<br/></td></tr></table>>];
+
+	乌兰夫 -> 布赫 [label="长子", style=solid, color="blue"];
+	布赫 -> 布小林 [label="女", style=solid, color="red"];
+	乌兰夫 -> 乌杰 [label="子", style=solid, color="blue"];
+	乌兰夫 -> 云曙碧 [label="女", style=solid, color="red"];
+	叶选基 -> 吕彤岩 [label="妻", style=bold, color="red"];
+	吕正操 -> 吕彤岩 [label="女", style=solid, color="red"];
+	洪学智 -> 洪虎 [label="长子", style=solid, color="blue"];
+	洪学智 -> 洪豹 [label="次子", style=solid, color="blue"];
+	张爱萍 -> 张翔 [label="子", style=solid, color="blue"];
+	张爱萍 -> 张胜 [label="子", style=solid, color="blue"];
+	张胜 -> 刘翰妮 [label="妻", style=bold, color="red"];
+	张爱萍 -> 张品 [label="子", style=solid, color="blue"];
+	杨勇 -> 杨小平 [label="长子", style=solid, color="blue"];
+	杨勇 -> 杨冀平 [label="次子", style=solid, color="blue"];
+	叶飞 -> 叶小楠 [label="长女", style=solid, color="red"];
+	叶飞 -> 叶之英 [label="次女", style=solid, color="red"];
+	江小华 -> 叶小楠 [label="妻", style=bold, color="red"];
+	赖传珠 -> 赖小鹏 [label="长子", style=solid, color="blue"];
+	赖传珠 -> 赖克游 [label="二子", style=dotted, color="blue"];
+	赖克游 -> 罗北捷 [label="妻", style=bold, color="red"];
+	赖传珠 -> 赖小津 [label="三子", style=solid, color="blue"];
+	杨成武 -> 杨东胜 [label="长子", style=solid, color="blue"];
+	杨成武 -> 杨东明 [label="次子", style=solid, color="blue"];
+	杨东明 -> 秦畹江 [label="妻", style=bold, color="red"];
+	杨成武 -> 杨东成 [label="三子", style=solid, color="blue"];
+	杨成武 -> 杨俊生 [label="次女", style=solid, color="red"];
+	杨成武 -> 杨东荣 [label="三女", style=solid, color="red"];
+	杨成武 -> 杨杨 [label="四女", style=solid, color="red"];
+	李克农 -> 李治 [label="长子", style=solid, color="blue"];
+	李克农 -> 李力 [label="次子", style=solid, color="blue"];
+	李克农 -> 李伦 [label="三子", style=solid, color="blue"];
+	李克农 -> 李宁 [label="长女", style=solid, color="red"];
+	李克农 -> 李冰 [label="次女", style=solid, color="red"];
+	许世友 -> 许光 [label="长子", style=solid, color="blue"];
+	许世友 -> 许建军 [label="次子", style=solid, color="blue"];
+	许世友 -> 许援朝 [label="三子", style=solid, color="blue"];
+	王震 -> 王兵 [label="长子", style=solid, color="blue"];
+	王兵 -> 王京阳 [label="子", style=solid, color="blue"];
+	王京阳 -> 叶静子 [label="妻", style=bold, color="red"];
+	王震 -> 王军 [label="次子", style=solid, color="blue"];
+	王军 -> 王安妮 [label="妻", style=bold, color="red"];
+	王军 -> 王京京 [label="女", style=solid, color="red"];
+	王军 -> 王京军 [label="子", style=solid, color="blue"];
+	王震 -> 王之 [label="三子", style=solid, color="blue"];
+	王军 -> 保利集团 [label="集团董事长", style=dotted, color="green"];
+	宋任穷 -> 宋克荒 [label="长子", style=solid, color="blue"];
+	宋任穷 -> 宋勤 [label="长女", style=solid, color="red"];
+	宋勤 -> 黄德生 [label="夫", style=bold, color="blue"];
+	宋任穷 -> 宋彬彬 [label="次女", style=solid, color="red"];
+	宋任穷 -> 宋珍珍 [label="三女", style=solid, color="red"];
+	陈方 -> 宋珍珍 [label="妻", style=bold, color="red"];
+	张宗逊 -> 张又侠 [label="子", style=solid, color="blue"];
+	萧克 -> 蹇先佛 [label="妻", style=bold, color="red"];
+	萧克 -> 肖纪龙 [label="子", style=solid, color="blue"];
+	萧克 -> 肖星华 [label="子", style=solid, color="blue"];
+
+
+	subgraph "cluster_乌兰夫"
+	{
+		fontsize="18";
+		label="乌兰夫家族";
+		乌兰夫;布赫;布小林;乌杰;云曙碧;
+	}
+
+	subgraph "cluster_吕正操"
+	{
+		fontsize="18";
+		label="吕正操家族";
+		吕正操;吕彤岩;
+	}
+
+	subgraph "cluster_洪学智"
+	{
+		fontsize="18";
+		label="洪学智家族";
+		洪学智;洪虎;洪豹;
+	}
+
+	subgraph "cluster_张爱萍"
+	{
+		fontsize="18";
+		label="张爱萍家族";
+		张爱萍;张翔;张胜;刘翰妮;张品;
+	}
+
+	subgraph "cluster_杨勇"
+	{
+		fontsize="18";
+		label="杨勇家族";
+		杨勇;杨小平;杨冀平;
+	}
+
+	subgraph "cluster_叶飞"
+	{
+		fontsize="18";
+		label="叶飞家族";
+		叶飞;叶小楠;叶之英;
+	}
+
+	subgraph "cluster_赖传珠"
+	{
+		fontsize="18";
+		label="赖传珠家族";
+		赖传珠;赖小鹏;赖克游;赖小津;
+	}
+
+	subgraph "cluster_杨成武"
+	{
+		fontsize="18";
+		label="杨成武家族";
+		杨成武;杨东胜;杨东明;杨东成;杨俊生;杨东荣;杨杨;
+	}
+
+	subgraph "cluster_李克农"
+	{
+		fontsize="18";
+		label="李克农家族";
+		李克农;李治;李力;李伦;李宁;李冰;
+	}
+
+	subgraph "cluster_许世友"
+	{
+		fontsize="18";
+		label="许世友家族";
+		许世友;许光;许建军;许援朝;
+	}
+
+	subgraph "cluster_王震"
+	{
+		fontsize="18";
+		label="王震家族";
+		王震;王兵;王京阳;王军;王安妮;王京京;王京军;王之;
+	}
+
+	subgraph "cluster_宋任穷"
+	{
+		fontsize="18";
+		label="宋任穷家族";
+		宋任穷;宋克荒;宋勤;黄德生;宋彬彬;宋珍珍;
+	}
+
+	subgraph "cluster_张宗逊"
+	{
+		fontsize="18";
+		label="张宗逊家族";
+		张宗逊;张又侠;
+	}
+
+	subgraph "cluster_萧克"
+	{
+		fontsize="18";
+		label="萧克家族";
+		萧克;蹇先佛;肖纪龙;肖星华;
+	}
+
+}

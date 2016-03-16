@@ -1,0 +1,376 @@
+
+digraph 第1代一品高官
+{
+	rankdir = "LR";
+	ranksep = 0.5;
+	label = "第1代一品高官";
+	labelloc = "t";
+	fontsize = "24";
+	fontname = "SimHei";
+
+	graph [style="filled", color="lightgrey"];
+	node [fontname="SimSun"];
+	edge [fontname="SimSun"];
+
+	刘伯坚 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘伯坚 [1895]</td></tr><tr><td></td></tr><tr><td>中共元老<br/>与周恩来一起赴法勤工俭学<br/>中共旅欧总支部书记<br/></td></tr></table>>];
+	刘虎生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘虎生 [1928]</td></tr><tr><td></td></tr><tr><td>李鹏亲家<br/>国家经委科技局局长<br/>华联汽车公司董事长<br/></td></tr></table>>];
+	刘智源 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘智源 [1958]</td></tr><tr><td></td></tr><tr><td>刘虎生之子、李鹏女婿<br/>北华信电子集团总经理、董事长<br/></td></tr></table>>];
+	李小琳 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李小琳 [1961]</td></tr><tr><td><img src="../data/person/李小琳/portrait.png"/></td></tr><tr><td>李鹏之女、刘伯坚孙媳妇<br/>中国电力总经理<br/>(号称“电力行业一姐”)<br/></td></tr></table>>];
+	邓子恢 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓子恢 [1896]</td></tr><tr><td><img src="../data/person/邓子恢/portrait.png"/></td></tr><tr><td>中共元老<br/>副总理<br/></td></tr></table>>];
+	邓淮生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓淮生</td></tr><tr><td></td></tr><tr><td>新四军研究会常务副会长<br/></td></tr></table>>];
+	邓瑞生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓瑞生</td></tr><tr><td></td></tr><tr><td></td></tr></table>>];
+	邓仲坚 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓仲坚</td></tr><tr><td></td></tr><tr><td>北京盛科天创总裁<br/></td></tr></table>>];
+	邓运 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓运</td></tr><tr><td></td></tr><tr><td>中国保利集团上海公司总经理<br/></td></tr></table>>];
+	保利集团 [shape="ellipse", color="green", label=<<table border="0" cellborder="0"><tr><td>保利集团</td></tr><tr><td>(中国保利集团公司)</td></tr><tr><td></td></tr><tr><td>1983年由总参谋部与中信合办“保利科技公司”<br/>1992年升格为“中国保利集团公司”<br/>主要业务：军火进出口、房地产、矿产开发<br/>2000年61家资产过百亿国企之一<br/></td></tr></table>>];
+	谭震林 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>谭震林 [1902]</td></tr><tr><td><img src="../data/person/谭震林/portrait.png"/></td></tr><tr><td>中共元老<br/>副总理<br/>全国人大副委员长<br/></td></tr></table>>];
+	谭冬生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>谭冬生</td></tr><tr><td></td></tr><tr><td>广州军区副司令员<br/>中将军衔<br/></td></tr></table>>];
+	谭晓旭 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>谭晓旭</td></tr><tr><td></td></tr><tr><td>金龙期货副总经理<br/></td></tr></table>>];
+	谭泾远 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谭泾远</td></tr><tr><td></td></tr><tr><td>谭震林之女、江华儿媳<br/>中国科协财务部部长<br/></td></tr></table>>];
+	虞大江 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>虞大江</td></tr><tr><td></td></tr><tr><td>江华之子、谭震林女婿<br/>北京信息技术应用研究所所长<br/></td></tr></table>>];
+	薄一波 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄一波 [1908]</td></tr><tr><td><img src="../data/person/薄一波/portrait.png"/></td></tr><tr><td>中共元老<br/>副总理<br/>邓小平时代的八元老之一<br/></td></tr></table>>];
+	薄熙永 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄熙永 [1947]</td></tr><tr><td>(化名:李学明)</td></tr><tr><td><img src="../data/person/薄熙永/portrait.png"/></td></tr><tr><td>中国光大集团执行董事、副总经理<br/></td></tr></table>>];
+	薄熙来 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄熙来 [1949]</td></tr><tr><td><img src="../data/person/薄熙来/portrait.png"/></td></tr><tr><td>薄一波之子、李雪峰女婿、谷景生女婿<br/>政治局委员<br/>重庆市委书记<br/></td></tr></table>>];
+	薄望知 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄望知 [1977]</td></tr><tr><td>(曾用名:李望知)</td></tr><tr><td><img src="../data/person/薄望知/portrait.png"/></td></tr><tr><td>薄熙来与李丹宇之子<br/>从事私募基金投资<br/>在香港成立老牛雪龙控股<br/></td></tr></table>>];
+	薄瓜瓜 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄瓜瓜 [1987]</td></tr><tr><td><img src="../data/person/薄瓜瓜/portrait.png"/></td></tr><tr><td>薄熙来与谷开来之子<br/>就读英国贵族学校哈罗公学(靠海伍德的关系)<br/>入读牛津大学两年后成绩太差被劝退<br/></td></tr></table>>];
+	薄熙成 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄熙成 [1951]</td></tr><tr><td><img src="../data/person/薄熙成/portrait.png"/></td></tr><tr><td>北京旅游局局长<br/>北京六合兴集团董事长<br/>中信证券独立董事<br/></td></tr></table>>];
+	薄熙莹 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>薄熙莹</td></tr><tr><td></td></tr><tr><td>外交部非洲司司长<br/></td></tr></table>>];
+	郑耀文 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>郑耀文</td></tr><tr><td></td></tr><tr><td>驻外大使<br/></td></tr></table>>];
+	李丹宇 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李丹宇</td></tr><tr><td></td></tr><tr><td>李雪峰之女、薄熙来之前妻<br/></td></tr></table>>];
+	谷开来 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谷开来 [1958]</td></tr><tr><td><img src="../data/person/谷开来/portrait.png"/></td></tr><tr><td>谷景生之女、薄熙来之妻、薄一波儿媳<br/>北京开来律师所所长<br/>香港籍、新加坡绿卡<br/></td></tr></table>>];
+	任弼时 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>任弼时 [1904]</td></tr><tr><td><img src="../data/person/任弼时/portrait.png"/></td></tr><tr><td>中共元老<br/>中共中央秘书长、中共中央书记处书<br/></td></tr></table>>];
+	任远志 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>任远志 [1931]</td></tr><tr><td></td></tr><tr><td>国家轻工业部部长秘书<br/></td></tr></table>>];
+	白世藻 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>白世藻</td></tr><tr><td></td></tr><tr><td>任弼时女婿<br/></td></tr></table>>];
+	任白洁 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>任白洁</td></tr><tr><td></td></tr><tr><td>任弼时外孙<br/>北京军区空军军官<br/>大校军衔<br/></td></tr></table>>];
+	任白净 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>任白净</td></tr><tr><td></td></tr><tr><td>任弼时外孙女<br/>北京军区后勤部<br/>上校军衔<br/></td></tr></table>>];
+	任远征 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>任远征 [1936]</td></tr><tr><td></td></tr><tr><td>任弼时之女、朱理治儿媳<br/>中纪委第三纪检监察室主任<br/></td></tr></table>>];
+	任远远 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>任远远 [1940]</td></tr><tr><td></td></tr><tr><td>总参谋部情报部二局局长<br/>大校军衔<br/></td></tr></table>>];
+	任继宁 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>任继宁</td></tr><tr><td></td></tr><tr><td>留学美国霍普金斯大学<br/></td></tr></table>>];
+	朱尔谨 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>朱尔谨 [1934]</td></tr><tr><td></td></tr><tr><td>任弼时女婿、朱理治之子<br/></td></tr></table>>];
+	董必武 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>董必武 [1886]</td></tr><tr><td><img src="../data/person/董必武/portrait.png"/></td></tr><tr><td>中共元老<br/>一大代表<br/>国家副主席<br/></td></tr></table>>];
+	董良羽 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>董良羽 [1938]</td></tr><tr><td></td></tr><tr><td>董必武之子、李范五女婿<br/>北京军区空军参谋<br/>大校军衔<br/></td></tr></table>>];
+	董良翮 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>董良翮 [1945]</td></tr><tr><td></td></tr><tr><td>天津天信鼎盛投资董事长<br/>广州中联置业董事长<br/></td></tr></table>>];
+	董良翚 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>董良翚</td></tr><tr><td></td></tr><tr><td>中国文学出版社副社长<br/>中国文联副秘书长、机关党委书记<br/></td></tr></table>>];
+	张力理 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张力理</td></tr><tr><td></td></tr><tr><td>最高人民法院政治部主任<br/></td></tr></table>>];
+	李黎力 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李黎力</td></tr><tr><td></td></tr><tr><td>李范五之女、董必武儿媳<br/></td></tr></table>>];
+	杨尚昆 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨尚昆 [1907]</td></tr><tr><td><img src="../data/person/杨尚昆/portrait.png"/></td></tr><tr><td>中央军委副主席、秘书长<br/>国家主席<br/>邓小平时代的八元老之一<br/></td></tr></table>>];
+	李伯钊 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李伯钊</td></tr><tr><td></td></tr><tr><td>中央戏剧学院院长<br/></td></tr></table>>];
+	杨白冰 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨白冰 [1920]</td></tr><tr><td><img src="../data/person/杨白冰/portrait.png"/></td></tr><tr><td>总政治部主任<br/>北京军区政委<br/>上将军衔<br/></td></tr></table>>];
+	杨白琳 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨白琳</td></tr><tr><td></td></tr><tr><td>杨尚昆之妹、廖汉生之妻(第2任)<br/></td></tr></table>>];
+	杨绍军 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨绍军</td></tr><tr><td></td></tr><tr><td>国防科工委某研究所长<br/></td></tr></table>>];
+	杨绍明 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨绍明 [1942]</td></tr><tr><td><img src="../data/person/杨绍明/portrait.png"/></td></tr><tr><td>中国人民对外友好协会理事<br/>中华慈善总会名誉副会长<br/>宋庆龄基金会副主席<br/>中国摄影家协会副主席<br/></td></tr></table>>];
+	杨李 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨李</td></tr><tr><td></td></tr><tr><td>总参谋部军官<br/>少将军衔<br/></td></tr></table>>];
+	王小朝 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王小朝 [1953]</td></tr><tr><td><img src="../data/person/王小朝/portrait.png"/></td></tr><tr><td>杨尚昆女婿<br/>中国保利集团董事、副总经理<br/></td></tr></table>>];
+	廖汉生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>廖汉生 [1911]</td></tr><tr><td><img src="../data/person/廖汉生/portrait.png"/></td></tr><tr><td>杨尚昆妹夫、贺龙外甥女婿<br/>开国中将<br/>南京军区政委<br/>全国人大副委员长<br/></td></tr></table>>];
+	彭真 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>彭真 [1902]</td></tr><tr><td>(原名:傅懋恭)</td></tr><tr><td><img src="../data/person/彭真/portrait.png"/></td></tr><tr><td>全国人大委员长<br/>邓小平时代的八元老之一<br/></td></tr></table>>];
+	傅锐 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>傅锐</td></tr><tr><td></td></tr><tr><td>中国核工业公司副总经理<br/></td></tr></table>>];
+	傅洋 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>傅洋</td></tr><tr><td></td></tr><tr><td>中华全国律师协会副会长<br/>北京康达律师事务所所长<br/></td></tr></table>>];
+	傅彦 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>傅彦</td></tr><tr><td></td></tr><tr><td>北京富利公司董事长<br/></td></tr></table>>];
+	李先念 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李先念 [1909]</td></tr><tr><td><img src="../data/person/李先念/portrait.png"/></td></tr><tr><td>中共中央副主席<br/>国家主席<br/>邓小平时代的八元老之一<br/></td></tr></table>>];
+	林佳楣 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>林佳楣</td></tr><tr><td></td></tr><tr><td>中国女医师协会名誉会长<br/></td></tr></table>>];
+	李平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李平</td></tr><tr><td></td></tr><tr><td>北京军区副参谋长<br/>少将军衔<br/></td></tr></table>>];
+	李紫阳 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李紫阳</td></tr><tr><td></td></tr><tr><td>中国女医师协会副会长<br/></td></tr></table>>];
+	李小林 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李小林</td></tr><tr><td><img src="../data/person/李小林/portrait.png"/></td></tr><tr><td>中国人民对外友好协会会长<br/></td></tr></table>>];
+	刘亚洲 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘亚洲 [1952]</td></tr><tr><td><img src="../data/person/刘亚洲/portrait.png"/></td></tr><tr><td>李先念女婿<br/>国防大学政委<br/>上将军衔<br/></td></tr></table>>];
+	陈云 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈云 [1905]</td></tr><tr><td><img src="../data/person/陈云/portrait.png"/></td></tr><tr><td>中共中央副主席<br/>邓小平时代的八元老之一<br/></td></tr></table>>];
+	陈元 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈元</td></tr><tr><td><img src="../data/person/陈元/portrait.png"/></td></tr><tr><td>中国国家开发银行行长<br/>中国人民银行(央行)副行长<br/>全国政协副主席<br/></td></tr></table>>];
+	陈晓欣 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈晓欣</td></tr><tr><td>(英文名:Charles)</td></tr><tr><td></td></tr><tr><td>留学美国康奈尔大学、斯坦福大学<br/>盘实资本(对冲基金)董事<br/></td></tr></table>>];
+	陈晓丹 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>陈晓丹</td></tr><tr><td>(英文名:Sabrina)</td></tr><tr><td><img src="../data/person/陈晓丹/portrait.png"/></td></tr><tr><td>留学美国杜克大学、哈佛大学<br/>参加2006年巴黎“克利翁名媛舞会”<br/>美国籍<br/></td></tr></table>>];
+	陈方 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈方</td></tr><tr><td></td></tr><tr><td>陈云之子、宋任穷女婿<br/>广东中山实业公司经理<br/>美国籍<br/></td></tr></table>>];
+	陈伟力 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>陈伟力</td></tr><tr><td></td></tr><tr><td>中智公司(CIIC、央企)总经理<br/>中国新技术创业公司董事长<br/></td></tr></table>>];
+	陈伟兰 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>陈伟兰</td></tr><tr><td></td></tr><tr><td>国家行政学院副院长<br/></td></tr></table>>];
+	宋珍珍 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>宋珍珍</td></tr><tr><td></td></tr><tr><td>宋任穷之女、陈云儿媳<br/>美国籍<br/></td></tr></table>>];
+	邓小平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓小平 [1904]</td></tr><tr><td>(原名:邓希贤)</td></tr><tr><td><img src="../data/person/邓小平/portrait.png"/></td></tr><tr><td>中共第二代掌门<br/>中央军委主席<br/>(被网友戏称为“矮凳”)<br/></td></tr></table>>];
+	邓垦 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓垦</td></tr><tr><td>(原名:邓先修)</td></tr><tr><td></td></tr><tr><td>武汉市委书记<br/>湖北省副省长<br/></td></tr></table>>];
+	邓先群 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>邓先群</td></tr><tr><td><img src="../data/person/邓先群/portrait.png"/></td></tr><tr><td>邓小平之妹、栗前明之妻<br/>总政治部群工部部长<br/>少将军衔<br/></td></tr></table>>];
+	栗前明 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>栗前明</td></tr><tr><td><img src="../data/person/栗前明/portrait.png"/></td></tr><tr><td>邓小平妹夫<br/>二炮副司令<br/>中将军衔<br/></td></tr></table>>];
+	邓朴方 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓朴方 [1944]</td></tr><tr><td><img src="../data/person/邓朴方/portrait.png"/></td></tr><tr><td>中国残疾人联合会主席<br/>中国残疾人福利基金会会长<br/>创办康华公司(80年代最大的官倒)<br/></td></tr></table>>];
+	邓质方 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓质方 [1952]</td></tr><tr><td></td></tr><tr><td>中信兴业公司总经理<br/>四方集团总裁<br/>首长四方董事长(香港上市)<br/>美国籍<br/></td></tr></table>>];
+	邓卓棣 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓卓棣 [1985]</td></tr><tr><td>(小名:小弟)</td></tr><tr><td><img src="../data/person/邓卓棣/portrait.png"/></td></tr><tr><td>邓小平孙子<br/>留学美国杜克大学<br/>广西百色市平果县副县长(27岁)<br/></td></tr></table>>];
+	邓林 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>邓林 [1941]</td></tr><tr><td></td></tr><tr><td>东方美术交流会会长<br/></td></tr></table>>];
+	吴建常 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>吴建常 [1939]</td></tr><tr><td><img src="../data/person/吴建常/portrait.png"/></td></tr><tr><td>邓小平女婿<br/>中国有色金属总公司总经理<br/>国家冶金部副部长<br/>(号称“有色金属大王”)<br/></td></tr></table>>];
+	卓泝 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>卓泝 [1975]</td></tr><tr><td></td></tr><tr><td>邓小平外孙<br/>易简投资董事长<br/>(该公司投资澳大利亚铁矿石)<br/></td></tr></table>>];
+	邓楠 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>邓楠 [1945]</td></tr><tr><td><img src="../data/person/邓楠/portrait.png"/></td></tr><tr><td>国家科技部副部长<br/>中国科协党组书记<br/></td></tr></table>>];
+	张宏 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张宏</td></tr><tr><td></td></tr><tr><td>邓小平女婿<br/>中国科学院科技开发局局长<br/></td></tr></table>>];
+	卓苒 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>卓苒 [1972]</td></tr><tr><td>(小名:眠眠)</td></tr><tr><td><img src="../data/person/卓苒/portrait.png"/></td></tr><tr><td>邓楠长女，吴小晖第三任妻子<br/>旅行者汽车集团执行总裁(该公司是浙商银行第二大股东)<br/>北京集德创新互动传媒大股东<br/>标准投资集团大股东(60%)<br/></td></tr></table>>];
+	吴小晖 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>吴小晖 [1966]</td></tr><tr><td>(曾用名:吴家晖、吴晓晖、吴光辉)</td></tr><tr><td><img src="../data/person/吴小晖/portrait.png"/></td></tr><tr><td>安邦保险集团法定代表人、董事长、首席执行官<br/></td></tr></table>>];
+	邓榕 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>邓榕 [1950]</td></tr><tr><td>(笔名:萧榕)</td></tr><tr><td><img src="../data/person/邓榕/portrait.png"/></td></tr><tr><td>总政治部组织部副处长<br/>中国国际友好联络会副会长<br/></td></tr></table>>];
+	卓玥 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>卓玥</td></tr><tr><td><img src="../data/person/卓玥/portrait.png"/></td></tr><tr><td>邓小平外孙女<br/></td></tr></table>>];
+	冯波 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>冯波 [1969]</td></tr><tr><td></td></tr><tr><td>联创策源风投基金创始人<br/></td></tr></table>>];
+	金维映 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>金维映 [1904]</td></tr><tr><td></td></tr><tr><td>邓小平第2任妻、李维汉之妻<br/></td></tr></table>>];
+	卢？ [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>卢某</td></tr><tr><td></td></tr><tr><td>卢文舸之女，吴小晖第二任妻子<br/></td></tr></table>>];
+	卢文舸 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>卢文舸</td></tr><tr><td></td></tr><tr><td>浙江省副省长、省人大常务副主任、杭州市长<br/></td></tr></table>>];
+	贺平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>贺平</td></tr><tr><td><img src="../data/person/贺平/portrait.png"/></td></tr><tr><td>贺彪之子、邓小平女婿<br/>总装备部部长<br/>中国保利集团董事长、总经理<br/>少将军衔<br/>(此人军界商界通吃)<br/></td></tr></table>>];
+	刘少奇 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘少奇 [1898]</td></tr><tr><td><img src="../data/person/刘少奇/portrait.png"/></td></tr><tr><td>中共中央副主席<br/>国家主席<br/></td></tr></table>>];
+	刘允真 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘允真 [1948]</td></tr><tr><td></td></tr><tr><td>长沙商业银行副行长<br/></td></tr></table>>];
+	刘源 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘源 [1951]</td></tr><tr><td><img src="../data/person/刘源/portrait.png"/></td></tr><tr><td>总后勤部政委<br/>上将军衔<br/></td></tr></table>>];
+	刘平平 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘平平 [1949]</td></tr><tr><td></td></tr><tr><td>国内贸易部科技司司长<br/>北京食品研究所所长<br/></td></tr></table>>];
+	刘亭亭 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘亭亭 [1952]</td></tr><tr><td></td></tr><tr><td>联亚集团董事长<br/>中贸圣佳国际拍卖公司董事长<br/></td></tr></table>>];
+	刘维明_1 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘维明 [1938]</td></tr><tr><td></td></tr><tr><td>广东省委常委、副省长<br/>(与刘华清儿子同名)<br/></td></tr></table>>];
+	王光美 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>王光美 [1921]</td></tr><tr><td><img src="../data/person/王光美/portrait.png"/></td></tr><tr><td>王治昌之女、刘少奇之妻(第6任)<br/></td></tr></table>>];
+	周恩来 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>周恩来 [1898]</td></tr><tr><td><img src="../data/person/周恩来/portrait.png"/></td></tr><tr><td>总理<br/>中共中央副主席<br/></td></tr></table>>];
+	邓颖超 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>邓颖超 [1904]</td></tr><tr><td></td></tr><tr><td>全国政协主席<br/>全国人大副委员长<br/>邓小平时代的八元老之一<br/></td></tr></table>>];
+	周尔钧 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>周尔钧</td></tr><tr><td></td></tr><tr><td>国防大学政治部主任<br/>少将军衔<br/></td></tr></table>>];
+	邓在军 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>邓在军</td></tr><tr><td></td></tr><tr><td>著名电视导演<br/></td></tr></table>>];
+	周秉德 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>周秉德</td></tr><tr><td></td></tr><tr><td>周恩来侄女、沈钧儒孙媳妇<br/>中国新闻社副社长<br/>《华声报》副社长<br/></td></tr></table>>];
+	周尔鎏 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>周尔鎏</td></tr><tr><td></td></tr><tr><td>北大副校长<br/></td></tr></table>>];
+	周尔辉 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>周尔辉</td></tr><tr><td></td></tr><tr><td>江苏教育厅副厅长<br/>江苏人大科教文卫委员会副主任<br/></td></tr></table>>];
+	周秉健 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>周秉健</td></tr><tr><td></td></tr><tr><td>内蒙古锡林浩特市副市长<br/></td></tr></table>>];
+	周秉华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>周秉华</td></tr><tr><td></td></tr><tr><td>北京市新闻出版局市场管理处负责人<br/></td></tr></table>>];
+	李鹏 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李鹏 [1928]</td></tr><tr><td><img src="../data/person/李鹏/portrait.png"/></td></tr><tr><td>周恩来养子<br/>总理<br/>政治局常委<br/></td></tr></table>>];
+	沈人骅 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>沈人骅</td></tr><tr><td></td></tr><tr><td>沈钧儒之孙、周恩来侄女婿<br/>西安空军工程学院副院长<br/></td></tr></table>>];
+	毛泽东 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>毛泽东 [1893]</td></tr><tr><td><img src="../data/person/毛泽东/portrait.png"/></td></tr><tr><td>中共第一代掌门<br/>中共中央主席<br/>中央军委主席<br/>(与希特勒和斯大林并称20世纪三大刽子手)<br/>(被网友戏称为“毛腊肉”)<br/></td></tr></table>>];
+	杨开慧 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨开慧 [1901]</td></tr><tr><td></td></tr><tr><td>毛泽东之妻(第2任)<br/></td></tr></table>>];
+	贺子珍 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>贺子珍 [1910]</td></tr><tr><td><img src="../data/person/贺子珍/portrait.png"/></td></tr><tr><td>毛泽东之妻(第3任)<br/></td></tr></table>>];
+	江青 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>江青 [1914]</td></tr><tr><td>(原名:李云鹤)</td></tr><tr><td><img src="../data/person/江青/portrait.png"/></td></tr><tr><td>毛泽东之妻(第4任)<br/>政治局委员<br/>中央文革小组组长<br/>臭名昭著的四人帮之首<br/></td></tr></table>>];
+	贺敏学 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>贺敏学 [1904]</td></tr><tr><td></td></tr><tr><td>福建省副省长<br/>华东军政学校校长<br/></td></tr></table>>];
+	毛岸英 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>毛岸英 [1922]</td></tr><tr><td>(原名:毛远仁)</td></tr><tr><td><img src="../data/person/毛岸英/portrait.png"/></td></tr><tr><td>北京机器总厂党委副书记(27岁)<br/>彭德怀机要秘书<br/>(幸亏死于朝鲜，否则天朝变成“西朝鲜”)<br/></td></tr></table>>];
+	刘思齐 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘思齐 [1930]</td></tr><tr><td>(曾用名:刘松林)</td></tr><tr><td></td></tr><tr><td>毛岸英之妻<br/></td></tr></table>>];
+	毛岸青 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>毛岸青 [1923]</td></tr><tr><td>(曾用名:毛永寿、毛远义)</td></tr><tr><td></td></tr><tr><td>长期精神病<br/></td></tr></table>>];
+	邵华 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>邵华 [1938]</td></tr><tr><td>(曾用名:张少华)</td></tr><tr><td></td></tr><tr><td>军事科学院百科部副部长<br/>军事科学学会副秘书长<br/>少将军衔<br/></td></tr></table>>];
+	毛新宇 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>毛新宇 [1970]</td></tr><tr><td><img src="../data/person/毛新宇/portrait.png"/></td></tr><tr><td>军事科学院某研究部副部长<br/>天朝最年轻少将<br/>(此人很憨，大概是遗传)<br/></td></tr></table>>];
+	李敏 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李敏 [1936]</td></tr><tr><td></td></tr><tr><td>毛泽东之女<br/></td></tr></table>>];
+	李讷 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李讷 [1940]</td></tr><tr><td></td></tr><tr><td>《解放军报》总编辑(27岁)<br/>北京市委副书记<br/></td></tr></table>>];
+	毛泽民 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>毛泽民 [1896]</td></tr><tr><td></td></tr><tr><td>毛泽东之弟<br/>中共元老<br/></td></tr></table>>];
+	毛远新 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>毛远新 [1941]</td></tr><tr><td>(化名:李实)</td></tr><tr><td><img src="../data/person/毛远新/portrait.png"/></td></tr><tr><td>毛泽民之子、毛泽东侄子<br/>辽宁革委会副主任(相当于省委副书记)<br/>沈阳军区政委(33岁)<br/>毛泽东与政治局的联络员<br/>文革时期红人，与四人帮一起被逮捕<br/></td></tr></table>>];
+	毛远志 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>毛远志</td></tr><tr><td></td></tr><tr><td>中共中央组织部局级干部<br/></td></tr></table>>];
+	毛远耀 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>毛远耀</td></tr><tr><td></td></tr><tr><td>衡阳市委书记、市长<br/>湖南长沙副市长<br/></td></tr></table>>];
+	王海容 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>王海容 [1938]</td></tr><tr><td></td></tr><tr><td>外交部副部长<br/></td></tr></table>>];
+	孔令华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孔令华</td></tr><tr><td></td></tr><tr><td>孔从洲之子、毛泽东女婿<br/>国防科工委干部<br/></td></tr></table>>];
+	孔继宁 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孔继宁 [1962]</td></tr><tr><td></td></tr><tr><td>毛泽东外孙<br/>总参谋部情报部助理武官<br/>东方昆仑董事长<br/></td></tr></table>>];
+	孔东梅 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>孔东梅 [1972]</td></tr><tr><td><img src="../data/person/孔东梅/portrait.png"/></td></tr><tr><td>毛泽东外孙女<br/>北京东润菊书香屋董事长<br/>美国籍<br/></td></tr></table>>];
+	陈东升 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈东升 [1957]</td></tr><tr><td><img src="../data/person/陈东升/portrait.png"/></td></tr><tr><td>嘉德拍卖创始人(天朝最大拍卖公司)<br/>泰康人寿创始人<br/>宅急送创始人<br/>资产过百亿<br/></td></tr></table>>];
+
+	刘伯坚 -> 刘虎生 [label="子", style=solid, color="blue"];
+	刘虎生 -> 刘智源 [label="子", style=solid, color="blue"];
+	刘智源 -> 李小琳 [label="妻", style=bold, color="red"];
+	邓子恢 -> 邓淮生 [label="长子", style=solid, color="blue"];
+	邓子恢 -> 邓瑞生 [label="次子", style=solid, color="blue"];
+	邓瑞生 -> 邓仲坚 [label="子", style=solid, color="blue"];
+	邓子恢 -> 邓运 [label="子", style=solid, color="blue"];
+	邓运 -> 保利集团 [label="上海公司总经理", style=dotted, color="green"];
+	虞大江 -> 谭泾远 [label="妻", style=bold, color="red"];
+	谭震林 -> 谭冬生 [label="子", style=solid, color="blue"];
+	谭震林 -> 谭晓旭 [label="子", style=solid, color="blue"];
+	谭震林 -> 谭泾远 [label="女", style=solid, color="red"];
+	薄一波 -> 薄熙永 [label="长子", style=solid, color="blue"];
+	薄一波 -> 薄熙来 [label="次子", style=solid, color="blue"];
+	薄熙来 -> 李丹宇 [label="妻", style=bold, color="red"];
+	薄熙来 -> 谷开来 [label="妻", style=bold, color="red"];
+	薄熙来 -> 薄望知 [label="长子", style=solid, color="blue"];
+	李丹宇 -> 薄望知 [label="子", style=solid, color="blue"];
+	薄熙来 -> 薄瓜瓜 [label="次子", style=solid, color="blue"];
+	谷开来 -> 薄瓜瓜 [label="子", style=solid, color="blue"];
+	薄一波 -> 薄熙成 [label="三子", style=solid, color="blue"];
+	薄一波 -> 薄熙莹 [label="长女", style=solid, color="red"];
+	薄熙莹 -> 郑耀文 [label="夫", style=bold, color="blue"];
+	任弼时 -> 任远志 [label="长女", style=solid, color="red"];
+	任远志 -> 白世藻 [label="夫", style=bold, color="blue"];
+	任远志 -> 任白洁 [label="子", style=solid, color="blue"];
+	任远志 -> 任白净 [label="女", style=solid, color="red"];
+	任弼时 -> 任远征 [label="次女", style=solid, color="red"];
+	任弼时 -> 任远远 [label="子", style=solid, color="blue"];
+	任远远 -> 任继宁 [label="子", style=solid, color="blue"];
+	任远征 -> 朱尔谨 [label="夫", style=bold, color="blue"];
+	董必武 -> 董良羽 [label="长子", style=solid, color="blue"];
+	董良羽 -> 李黎力 [label="妻", style=bold, color="red"];
+	董必武 -> 董良翮 [label="次子", style=solid, color="blue"];
+	董必武 -> 董良翚 [label="长女", style=solid, color="red"];
+	董良翚 -> 张力理 [label="夫", style=bold, color="blue"];
+	廖汉生 -> 杨白琳 [label="妻", style=bold, color="red"];
+	杨尚昆 -> 李伯钊 [label="妻", style=bold, color="red"];
+	杨尚昆 -> 杨白冰 [label="弟", style=dashed, color="blue"];
+	杨尚昆 -> 杨白琳 [label="妹", style=dashed, color="red"];
+	杨尚昆 -> 杨绍军 [label="长子", style=solid, color="blue"];
+	杨尚昆 -> 杨绍明 [label="次子", style=solid, color="blue"];
+	杨尚昆 -> 杨李 [label="女", style=solid, color="red"];
+	杨李 -> 王小朝 [label="夫", style=bold, color="blue"];
+	王小朝 -> 保利集团 [label="集团董事、副总经理", style=dotted, color="green"];
+	彭真 -> 傅锐 [label="长子", style=solid, color="blue"];
+	彭真 -> 傅洋 [label="次子", style=solid, color="blue"];
+	彭真 -> 傅彦 [label="长女", style=solid, color="blue"];
+	李先念 -> 林佳楣 [label="妻", style=bold, color="red"];
+	李先念 -> 李平 [label="长子", style=solid, color="blue"];
+	李先念 -> 李紫阳 [label="次女", style=solid, color="red"];
+	李先念 -> 李小林 [label="三女", style=solid, color="red"];
+	李小林 -> 刘亚洲 [label="夫", style=bold, color="blue"];
+	陈云 -> 陈元 [label="长子", style=solid, color="blue"];
+	陈元 -> 陈晓欣 [label="子", style=solid, color="blue"];
+	陈元 -> 陈晓丹 [label="女", style=solid, color="red"];
+	陈云 -> 陈方 [label="次子", style=solid, color="blue"];
+	陈方 -> 宋珍珍 [label="妻", style=bold, color="red"];
+	陈云 -> 陈伟力 [label="长女", style=solid, color="red"];
+	陈云 -> 陈伟兰 [label="三女", style=solid, color="red"];
+	贺平 -> 保利集团 [label="集团董事长、总经理", style=dotted, color="green"];
+	邓小平 -> 金维映 [label="前妻", style=dotted, color="red"];
+	邓小平 -> 邓垦 [label="弟", style=dashed, color="blue"];
+	邓小平 -> 邓先群 [label="妹", style=dashed, color="red"];
+	邓先群 -> 栗前明 [label="夫", style=bold, color="blue"];
+	邓小平 -> 邓朴方 [label="长子", style=solid, color="blue"];
+	邓小平 -> 邓质方 [label="次子", style=solid, color="blue"];
+	邓质方 -> 邓卓棣 [label="子", style=solid, color="blue"];
+	邓小平 -> 邓林 [label="长女", style=solid, color="red"];
+	邓林 -> 吴建常 [label="夫", style=bold, color="blue"];
+	邓林 -> 卓泝 [label="子", style=solid, color="blue"];
+	吴建常 -> 卓泝 [label="子", style=solid, color="blue"];
+	邓小平 -> 邓楠 [label="次女", style=solid, color="red"];
+	邓楠 -> 张宏 [label="夫", style=bold, color="blue"];
+	邓楠 -> 卓苒 [label="女", style=solid, color="red"];
+	张宏 -> 卓苒 [label="女", style=solid, color="red"];
+	卓苒 -> 吴小晖 [label="夫", style=bold, color="blue"];
+	吴小晖 -> 卢？ [label="前妻", style=dotted, color="red"];
+	卢文舸 -> 卢？ [label="女", style=solid, color="red"];
+	邓小平 -> 邓榕 [label="三女", style=solid, color="red"];
+	邓榕 -> 贺平 [label="夫", style=bold, color="blue"];
+	邓榕 -> 卓玥 [label="女", style=solid, color="red"];
+	贺平 -> 卓玥 [label="女", style=solid, color="red"];
+	卓玥 -> 冯波 [label="夫", style=bold, color="blue"];
+	邓榕 -> 保利集团 [label="集团高管", style=dotted, color="green"];
+	刘少奇 -> 王光美 [label="妻", style=bold, color="red"];
+	刘少奇 -> 刘允真 [label="子", style=solid, color="blue"];
+	刘少奇 -> 刘源 [label="子", style=solid, color="blue"];
+	王光美 -> 刘源 [label="子", style=solid, color="blue"];
+	刘少奇 -> 刘平平 [label="女", style=solid, color="red"];
+	王光美 -> 刘平平 [label="女", style=solid, color="red"];
+	刘少奇 -> 刘亭亭 [label="女", style=solid, color="red"];
+	王光美 -> 刘亭亭 [label="女", style=solid, color="red"];
+	刘少奇 -> 刘维明_1 [label="侄子", style=dotted, color="blue"];
+	周恩来 -> 邓颖超 [label="妻", style=bold, color="red"];
+	周恩来 -> 周尔钧 [label="侄子", style=dotted, color="blue"];
+	周尔钧 -> 邓在军 [label="妻", style=bold, color="red"];
+	周恩来 -> 周秉德 [label="侄女", style=dotted, color="red"];
+	周秉德 -> 沈人骅 [label="夫", style=bold, color="blue"];
+	周恩来 -> 周尔鎏 [label="侄子", style=dotted, color="blue"];
+	周恩来 -> 周尔辉 [label="侄子", style=dotted, color="blue"];
+	周恩来 -> 周秉华 [label="侄子", style=dotted, color="blue"];
+	周恩来 -> 周秉健 [label="侄女", style=dotted, color="red"];
+	周恩来 -> 李鹏 [label="养子", style=dotted, color="blue"];
+	孔令华 -> 孔继宁 [label="子", style=solid, color="blue"];
+	李敏 -> 孔继宁 [label="子", style=solid, color="blue"];
+	孔令华 -> 孔东梅 [label="女", style=solid, color="red"];
+	李敏 -> 孔东梅 [label="女", style=solid, color="red"];
+	孔东梅 -> 陈东升 [label="夫", style=bold, color="blue"];
+	毛泽东 -> 杨开慧 [label="妻", style=bold, color="red"];
+	毛泽东 -> 贺子珍 [label="妻", style=bold, color="red"];
+	贺子珍 -> 贺敏学 [label="弟", style=dashed, color="blue"];
+	毛泽东 -> 江青 [label="妻", style=bold, color="red"];
+	毛泽东 -> 毛岸英 [label="子", style=solid, color="blue"];
+	杨开慧 -> 毛岸英 [label="子", style=solid, color="blue"];
+	毛岸英 -> 刘思齐 [label="妻", style=bold, color="red"];
+	毛泽东 -> 毛岸青 [label="子", style=solid, color="blue"];
+	杨开慧 -> 毛岸青 [label="子", style=solid, color="blue"];
+	毛岸青 -> 邵华 [label="妻", style=bold, color="red"];
+	毛岸青 -> 毛新宇 [label="子", style=solid, color="blue"];
+	邵华 -> 毛新宇 [label="子", style=solid, color="blue"];
+	邵华 -> 刘思齐 [label="同母异父姐", style=dashed, color="red"];
+	毛泽东 -> 李敏 [label="女", style=solid, color="red"];
+	贺子珍 -> 李敏 [label="女", style=solid, color="red"];
+	李敏 -> 孔令华 [label="夫", style=bold, color="blue"];
+	毛泽东 -> 李讷 [label="女", style=solid, color="red"];
+	江青 -> 李讷 [label="女", style=solid, color="red"];
+	毛泽东 -> 毛泽民 [label="弟", style=dashed, color="blue"];
+	毛泽民 -> 毛远新 [label="子", style=solid, color="blue"];
+	毛泽东 -> 毛远新 [label="侄子", style=dotted, color="blue"];
+	毛泽东 -> 毛远志 [label="侄子", style=dotted, color="blue"];
+	毛泽东 -> 毛远耀 [label="堂侄子", style=dotted, color="blue"];
+	毛泽东 -> 王海容 [label="表侄女", style=dotted, color="red"];
+
+
+	subgraph "cluster_刘伯坚"
+	{
+		fontsize="18";
+		label="刘伯坚家族";
+		刘伯坚;刘虎生;刘智源;
+	}
+
+	subgraph "cluster_邓子恢"
+	{
+		fontsize="18";
+		label="邓子恢家族";
+		邓子恢;邓淮生;邓瑞生;邓仲坚;邓运;
+	}
+
+	subgraph "cluster_谭震林"
+	{
+		fontsize="18";
+		label="谭震林家族";
+		谭震林;谭冬生;谭晓旭;谭泾远;
+	}
+
+	subgraph "cluster_薄一波"
+	{
+		fontsize="18";
+		label="薄一波家族";
+		薄一波;薄熙永;薄熙来;薄望知;薄瓜瓜;薄熙成;薄熙莹;郑耀文;
+	}
+
+	subgraph "cluster_任弼时"
+	{
+		fontsize="18";
+		label="任弼时家族";
+		任弼时;任远志;白世藻;任白洁;任白净;任远征;任远远;任继宁;
+	}
+
+	subgraph "cluster_董必武"
+	{
+		fontsize="18";
+		label="董必武家族";
+		董必武;董良羽;董良翮;董良翚;张力理;
+	}
+
+	subgraph "cluster_杨尚昆"
+	{
+		fontsize="18";
+		label="杨尚昆家族";
+		杨尚昆;李伯钊;杨白冰;杨白琳;杨绍军;杨绍明;杨李;王小朝;
+	}
+
+	subgraph "cluster_彭真"
+	{
+		fontsize="18";
+		label="彭真家族";
+		彭真;傅锐;傅洋;傅彦;
+	}
+
+	subgraph "cluster_李先念"
+	{
+		fontsize="18";
+		label="李先念家族";
+		李先念;林佳楣;李平;李紫阳;李小林;刘亚洲;
+	}
+
+	subgraph "cluster_陈云"
+	{
+		fontsize="18";
+		label="陈云家族";
+		陈云;陈元;陈晓欣;陈晓丹;陈方;陈伟力;陈伟兰;
+	}
+
+	subgraph "cluster_邓小平"
+	{
+		fontsize="18";
+		label="邓小平家族";
+		邓小平;邓垦;邓先群;栗前明;邓朴方;邓质方;邓卓棣;邓林;吴建常;卓泝;邓楠;张宏;卓苒;吴小晖;邓榕;卓玥;冯波;
+	}
+
+	subgraph "cluster_刘少奇"
+	{
+		fontsize="18";
+		label="刘少奇家族";
+		刘少奇;刘允真;刘源;刘平平;刘亭亭;刘维明_1;
+	}
+
+	subgraph "cluster_周恩来"
+	{
+		fontsize="18";
+		label="周恩来家族";
+		周恩来;邓颖超;周尔钧;邓在军;周秉德;周尔鎏;周尔辉;周秉健;周秉华;
+	}
+
+	subgraph "cluster_毛泽东"
+	{
+		fontsize="18";
+		label="毛泽东家族";
+		毛泽东;杨开慧;贺子珍;江青;贺敏学;毛岸英;刘思齐;毛岸青;邵华;毛新宇;李敏;李讷;毛泽民;毛远新;毛远志;毛远耀;王海容;
+	}
+
+}

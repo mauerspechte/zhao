@@ -1,0 +1,225 @@
+
+digraph 第1代二品高官
+{
+	rankdir = "LR";
+	ranksep = 0.5;
+	label = "第1代二品高官";
+	labelloc = "t";
+	fontsize = "24";
+	fontname = "SimHei";
+
+	graph [style="filled", color="lightgrey"];
+	node [fontname="SimSun"];
+	edge [fontname="SimSun"];
+
+	周建南 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>周建南 [1917]</td></tr><tr><td></td></tr><tr><td>国家机械工业部部长<br/></td></tr></table>>];
+	周小鹤 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>周小鹤</td></tr><tr><td></td></tr><tr><td>中创集团(央企)总经理<br/></td></tr></table>>];
+	周小川 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>周小川 [1948]</td></tr><tr><td><img src="../data/person/周小川/portrait.png"/></td></tr><tr><td>央行(中国人民银行)行长<br/>中国证监会主席<br/></td></tr></table>>];
+	陈正人 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈正人 [1907]</td></tr><tr><td></td></tr><tr><td>国家建筑工程部部长<br/>江西省第一任省委书记<br/></td></tr></table>>];
+	陈瑞生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈瑞生</td></tr><tr><td></td></tr><tr><td>中央党校进修部主任<br/></td></tr></table>>];
+	陈洪生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈洪生 [1950]</td></tr><tr><td></td></tr><tr><td>中国保利集团董事长<br/></td></tr></table>>];
+	陈春生 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>陈春生</td></tr><tr><td></td></tr><tr><td>天津图书馆副馆长<br/></td></tr></table>>];
+	陈宜生 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>陈宜生</td></tr><tr><td></td></tr><tr><td>天美科技高级顾问<br/></td></tr></table>>];
+	保利集团 [shape="ellipse", color="green", label=<<table border="0" cellborder="0"><tr><td>保利集团</td></tr><tr><td>(中国保利集团公司)</td></tr><tr><td></td></tr><tr><td>1983年由总参谋部与中信合办“保利科技公司”<br/>1992年升格为“中国保利集团公司”<br/>主要业务：军火进出口、房地产、矿产开发<br/>2000年61家资产过百亿国企之一<br/></td></tr></table>>];
+	罗青长 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>罗青长 [1918]</td></tr><tr><td></td></tr><tr><td>中共中央调查部(国安部前身)部长<br/></td></tr></table>>];
+	罗挺 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>罗挺 [1952]</td></tr><tr><td></td></tr><tr><td>海军大连舰艇学院政治委员<br/>少将军衔<br/></td></tr></table>>];
+	罗援 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>罗援</td></tr><tr><td><img src="../data/person/罗援/portrait.png"/></td></tr><tr><td>军事科学院世界军事研究部副部长<br/>少将军衔<br/>(近期开微博丑态毕露)<br/></td></tr></table>>];
+	罗振 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>罗振</td></tr><tr><td></td></tr><tr><td>第一太平戴维斯(中国)总经理<br/>纽约华荣集团总经理<br/>美国中国留学人员联谊会副会长<br/></td></tr></table>>];
+	乔冠华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>乔冠华 [1913]</td></tr><tr><td><img src="../data/person/乔冠华/portrait.png"/></td></tr><tr><td>外交部部长<br/>(文革后期成为四人帮走狗)<br/>龚澎之夫，章含之之夫<br/></td></tr></table>>];
+	龚澎 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>龚澎 [1914]</td></tr><tr><td>(原名:龚维航)</td></tr><tr><td><img src="../data/person/龚澎/portrait.png"/></td></tr><tr><td>外交部情报司(后改称新闻司)司长<br/>龚镇洲之女，乔冠华第2任妻<br/></td></tr></table>>];
+	章含之 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>章含之 [1935]</td></tr><tr><td><img src="../data/person/章含之/portrait.png"/></td></tr><tr><td>文革时期“外交部五朵金花”之一<br/>章士钊养女，洪君彦之妻，乔冠华第3任妻<br/></td></tr></table>>];
+	乔宗淮 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>乔宗淮 [1944]</td></tr><tr><td></td></tr><tr><td>外交部副部长<br/></td></tr></table>>];
+	胡乔木 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>胡乔木 [1912]</td></tr><tr><td>(原名:胡鼎新)</td></tr><tr><td><img src="../data/person/胡乔木/portrait.png"/></td></tr><tr><td>毛泽东秘书(长期)<br/>新闻总署署长<br/>中宣部副部长<br/></td></tr></table>>];
+	谷羽 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谷羽 [1918]</td></tr><tr><td>(原名:李桂英)</td></tr><tr><td></td></tr><tr><td>中国科学院新技术局局长<br/></td></tr></table>>];
+	胡木英 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>胡木英</td></tr><tr><td></td></tr><tr><td>国家工商总局副局长<br/>中国公共关系协会常务副会长<br/></td></tr></table>>];
+	胡石英 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>胡石英 [1944]</td></tr><tr><td></td></tr><tr><td>中国国情调查研究院院长<br/>中国政策研究会副会长<br/>中国国际慈善基金会会长<br/>(胡耀邦搞廉政反腐，此人被判一年零两月)<br/></td></tr></table>>];
+	孔原 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孔原 [1906]</td></tr><tr><td></td></tr><tr><td>中共中央调查部(国安部前身)部长<br/>国家海关总署署长<br/></td></tr></table>>];
+	许明 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>许明</td></tr><tr><td></td></tr><tr><td>孔原之妻、周恩来秘书<br/></td></tr></table>>];
+	孔丹 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孔丹 [1947]</td></tr><tr><td></td></tr><tr><td>中信集团董事长<br/></td></tr></table>>];
+	孔栋 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孔栋</td></tr><tr><td></td></tr><tr><td>中国航空集团总经理、董事长<br/></td></tr></table>>];
+	中信集团 [shape="ellipse", color="green", label=<<table border="0" cellborder="0"><tr><td>中信集团</td></tr><tr><td>(中国国际信托投资公司)</td></tr><tr><td></td></tr><tr><td>1979年邓小平批准成立<br/>主要业务：金融、实业、服务业<br/>80年代十大官倒公司之首<br/></td></tr></table>>];
+	王首道 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王首道 [1906]</td></tr><tr><td></td></tr><tr><td>全国政协副主席<br/>国家交通部部长<br/>中国计生协会第一任会长<br/></td></tr></table>>];
+	王维延 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王维延 [1944]</td></tr><tr><td></td></tr><tr><td>深圳盐田港股份监事会主席<br/></td></tr></table>>];
+	王维滨 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>王维滨 [1947]</td></tr><tr><td></td></tr><tr><td>武警部队第一任计生办主任<br/>大校军衔<br/></td></tr></table>>];
+	李雪峰 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李雪峰 [1907]</td></tr><tr><td><img src="../data/person/李雪峰/portrait.png"/></td></tr><tr><td>中共元老<br/>中共华北局第一书记<br/>北京市委第一书记<br/>北京军区政委<br/></td></tr></table>>];
+	李小雪 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李小雪</td></tr><tr><td></td></tr><tr><td>李雪峰之子、谷景生女婿<br/>中国证监会纪委书记<br/></td></tr></table>>];
+	李丹宇 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李丹宇</td></tr><tr><td></td></tr><tr><td>李雪峰之女、薄熙来之前妻<br/></td></tr></table>>];
+	谷丹 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谷丹</td></tr><tr><td></td></tr><tr><td>谷景生之女、李雪峰儿媳<br/></td></tr></table>>];
+	薄熙来 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄熙来 [1949]</td></tr><tr><td><img src="../data/person/薄熙来/portrait.png"/></td></tr><tr><td>薄一波之子、李雪峰女婿、谷景生女婿<br/>政治局委员<br/>重庆市委书记<br/></td></tr></table>>];
+	薄望知 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄望知 [1977]</td></tr><tr><td>(曾用名:李望知)</td></tr><tr><td><img src="../data/person/薄望知/portrait.png"/></td></tr><tr><td>薄熙来与李丹宇之子<br/>从事私募基金投资<br/>在香港成立老牛雪龙控股<br/></td></tr></table>>];
+	江华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>江华 [1907]</td></tr><tr><td></td></tr><tr><td>最高人民法院院长<br/></td></tr></table>>];
+	虞大江 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>虞大江</td></tr><tr><td></td></tr><tr><td>江华之子、谭震林女婿<br/>北京信息技术应用研究所所长<br/></td></tr></table>>];
+	江小华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>江小华</td></tr><tr><td></td></tr><tr><td>江华之子、叶飞女婿<br/>武警水电指挥部副参谋长<br/>大校军衔<br/></td></tr></table>>];
+	谭泾远 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谭泾远</td></tr><tr><td></td></tr><tr><td>谭震林之女、江华儿媳<br/>中国科协财务部部长<br/></td></tr></table>>];
+	叶小楠 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>叶小楠</td></tr><tr><td></td></tr><tr><td>叶飞之女、江华儿媳<br/>厦门市计委主任<br/></td></tr></table>>];
+	安子文 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>安子文 [1909]</td></tr><tr><td></td></tr><tr><td>中组部部长<br/></td></tr></table>>];
+	安民 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>安民</td></tr><tr><td></td></tr><tr><td>国家商务部副部长<br/></td></tr></table>>];
+	安黎 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>安黎</td></tr><tr><td></td></tr><tr><td>安子文之女、胡耀邦儿媳<br/>胡德平之妻(第1任)<br/>厦门市副市长<br/></td></tr></table>>];
+	安志文 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>安志文</td></tr><tr><td></td></tr><tr><td>国家计委副主任、国家建委副主任<br/></td></tr></table>>];
+	胡德平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>胡德平 [1942]</td></tr><tr><td><img src="../data/person/胡德平/portrait.png"/></td></tr><tr><td>胡耀邦之子、安子文女婿<br/>全国工商联副主席<br/>中共中央统战部副部长<br/>全国人大常委<br/></td></tr></table>>];
+	林枫 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>林枫 [1906]</td></tr><tr><td><img src="../data/person/林枫/portrait.png"/></td></tr><tr><td>中央党校校长<br/>全国人大副委员长<br/>东北局书记<br/></td></tr></table>>];
+	郭明秋 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>郭明秋 [1917]</td></tr><tr><td></td></tr><tr><td>中共中央妇委秘书长<br/>全国妇联宣传部部长<br/></td></tr></table>>];
+	林炎志 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>林炎志</td></tr><tr><td><img src="../data/person/林炎志/portrait.png"/></td></tr><tr><td>吉林省委副书记<br/></td></tr></table>>];
+	林星玉 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>林星玉</td></tr><tr><td></td></tr><tr><td>北京康达律师事务所副所长<br/></td></tr></table>>];
+	林耿耿 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>林耿耿</td></tr><tr><td></td></tr><tr><td>林枫之女、罗瑞卿儿媳<br/>外交部机关党委书记<br/></td></tr></table>>];
+	林梅梅 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>林梅梅</td></tr><tr><td></td></tr><tr><td>中科院半导体研究所副所长<br/></td></tr></table>>];
+	罗箭 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>罗箭 [1938]</td></tr><tr><td>(曾用名:罗小卿)</td></tr><tr><td></td></tr><tr><td>罗瑞卿之子、林枫女婿<br/>总装备部后勤部副政委<br/>少将军衔<br/></td></tr></table>>];
+	李维汉 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李维汉 [1896]</td></tr><tr><td>(原名:李厚儒)</td></tr><tr><td><img src="../data/person/李维汉/portrait.png"/></td></tr><tr><td>中共早期主要领导之一<br/>中共中央党校校长<br/>中共中央统战部部长<br/></td></tr></table>>];
+	金维映 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>金维映 [1904]</td></tr><tr><td></td></tr><tr><td>邓小平第2任妻、李维汉之妻<br/></td></tr></table>>];
+	李铁映 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李铁映 [1936]</td></tr><tr><td><img src="../data/person/李铁映/portrait.png"/></td></tr><tr><td>李维汉之子、博古女婿<br/>全国人大副委员长<br/>国家体改委主任<br/></td></tr></table>>];
+	李力践 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李力践</td></tr><tr><td></td></tr><tr><td>金生企业集团(房地产)实际控制人<br/></td></tr></table>>];
+	李铁林 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李铁林 [1943]</td></tr><tr><td></td></tr><tr><td>中组部副部长<br/></td></tr></table>>];
+	秦新华 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>秦新华 [1938]</td></tr><tr><td></td></tr><tr><td>博古之女、李维汉儿媳、李铁映之妻<br/>国家卫生部科技司副司长 <br/></td></tr></table>>];
+	博古 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>博古 [1907]</td></tr><tr><td>(原名:秦邦宪)</td></tr><tr><td><img src="../data/person/博古/portrait.png"/></td></tr><tr><td>中共早期主要领导之一<br/>(“二十八个半布尔什维克”之一)<br/></td></tr></table>>];
+	秦铁 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦铁 [1940]</td></tr><tr><td></td></tr><tr><td>天津远洋船长<br/></td></tr></table>>];
+
+	周建南 -> 周小鹤 [label="长子", style=solid, color="blue"];
+	周建南 -> 周小川 [label="次子", style=solid, color="blue"];
+	陈正人 -> 陈瑞生 [label="长子", style=solid, color="blue"];
+	陈正人 -> 陈洪生 [label="次子", style=solid, color="blue"];
+	陈正人 -> 陈春生 [label="长女", style=solid, color="red"];
+	陈正人 -> 陈宜生 [label="次女", style=solid, color="red"];
+	陈洪生 -> 保利集团 [label="集团董事、副总经理", style=dotted, color="green"];
+	罗青长 -> 罗挺 [label="次子", style=solid, color="blue"];
+	罗青长 -> 罗援 [label="三子", style=solid, color="blue"];
+	罗青长 -> 罗振 [label="四子", style=solid, color="blue"];
+	乔冠华 -> 龚澎 [label="妻", style=bold, color="red"];
+	乔冠华 -> 章含之 [label="妻", style=bold, color="red"];
+	乔冠华 -> 乔宗淮 [label="子", style=solid, color="blue"];
+	龚澎 -> 乔宗淮 [label="子", style=solid, color="blue"];
+	胡乔木 -> 谷羽 [label="妻", style=bold, color="red"];
+	胡乔木 -> 胡木英 [label="女", style=solid, color="red"];
+	谷羽 -> 胡木英 [label="女", style=solid, color="red"];
+	胡乔木 -> 胡石英 [label="子", style=solid, color="blue"];
+	谷羽 -> 胡石英 [label="子", style=solid, color="blue"];
+	孔原 -> 许明 [label="妻", style=bold, color="red"];
+	孔原 -> 孔丹 [label="子", style=solid, color="blue"];
+	许明 -> 孔丹 [label="子", style=solid, color="blue"];
+	孔原 -> 孔栋 [label="子", style=solid, color="blue"];
+	许明 -> 孔栋 [label="子", style=solid, color="blue"];
+	孔丹 -> 中信集团 [label="集团董事长、总经理", style=dotted, color="green"];
+	王首道 -> 王维延 [label="子", style=solid, color="blue"];
+	王首道 -> 王维滨 [label="女", style=solid, color="red"];
+	李雪峰 -> 李小雪 [label="子", style=solid, color="blue"];
+	李小雪 -> 谷丹 [label="妻", style=bold, color="red"];
+	李雪峰 -> 李丹宇 [label="女", style=solid, color="red"];
+	薄熙来 -> 李丹宇 [label="妻", style=bold, color="red"];
+	薄熙来 -> 薄望知 [label="长子", style=solid, color="blue"];
+	李丹宇 -> 薄望知 [label="子", style=solid, color="blue"];
+	江华 -> 虞大江 [label="子", style=solid, color="blue"];
+	虞大江 -> 谭泾远 [label="妻", style=bold, color="red"];
+	江华 -> 江小华 [label="子", style=solid, color="blue"];
+	江小华 -> 叶小楠 [label="妻", style=bold, color="red"];
+	安子文 -> 安民 [label="子", style=solid, color="blue"];
+	安子文 -> 安黎 [label="女", style=solid, color="red"];
+	安子文 -> 安志文 [label="弟", style=dashed, color="blue"];
+	胡德平 -> 安黎 [label="妻", style=bold, color="red"];
+	林枫 -> 郭明秋 [label="妻", style=bold, color="red"];
+	林枫 -> 林炎志 [label="子", style=solid, color="blue"];
+	林枫 -> 林星玉 [label="女", style=solid, color="red"];
+	林枫 -> 林耿耿 [label="女", style=solid, color="red"];
+	林枫 -> 林梅梅 [label="女", style=solid, color="red"];
+	罗箭 -> 林耿耿 [label="妻", style=bold, color="red"];
+	李维汉 -> 金维映 [label="妻", style=bold, color="red"];
+	李维汉 -> 李铁映 [label="长子", style=solid, color="blue"];
+	金维映 -> 李铁映 [label="长子", style=solid, color="blue"];
+	李铁映 -> 秦新华 [label="妻", style=bold, color="red"];
+	李铁映 -> 李力践 [label="子", style=solid, color="blue"];
+	李维汉 -> 李铁林 [label="次子", style=solid, color="blue"];
+	金维映 -> 李铁林 [label="次子", style=solid, color="blue"];
+	博古 -> 秦新华 [label="女", style=solid, color="red"];
+	博古 -> 秦铁 [label="子", style=solid, color="blue"];
+
+
+	subgraph "cluster_周建南"
+	{
+		fontsize="18";
+		label="周建南家族";
+		周建南;周小鹤;周小川;
+	}
+
+	subgraph "cluster_陈正人"
+	{
+		fontsize="18";
+		label="陈正人家族";
+		陈正人;陈瑞生;陈洪生;陈春生;陈宜生;
+	}
+
+	subgraph "cluster_罗青长"
+	{
+		fontsize="18";
+		label="罗青长家族";
+		罗青长;罗挺;罗援;罗振;
+	}
+
+	subgraph "cluster_乔冠华"
+	{
+		fontsize="18";
+		label="乔冠华家族";
+		乔冠华;龚澎;章含之;乔宗淮;
+	}
+
+	subgraph "cluster_胡乔木"
+	{
+		fontsize="18";
+		label="胡乔木家族";
+		胡乔木;谷羽;胡木英;胡石英;
+	}
+
+	subgraph "cluster_孔原"
+	{
+		fontsize="18";
+		label="孔原家族";
+		孔原;许明;孔丹;孔栋;
+	}
+
+	subgraph "cluster_王首道"
+	{
+		fontsize="18";
+		label="王首道家族";
+		王首道;王维延;王维滨;
+	}
+
+	subgraph "cluster_李雪峰"
+	{
+		fontsize="18";
+		label="李雪峰家族";
+		李雪峰;李小雪;李丹宇;
+	}
+
+	subgraph "cluster_江华"
+	{
+		fontsize="18";
+		label="江华家族";
+		江华;虞大江;江小华;
+	}
+
+	subgraph "cluster_安子文"
+	{
+		fontsize="18";
+		label="安子文家族";
+		安子文;安民;安黎;安志文;
+	}
+
+	subgraph "cluster_林枫"
+	{
+		fontsize="18";
+		label="林枫家族";
+		林枫;郭明秋;林炎志;林星玉;林耿耿;林梅梅;
+	}
+
+	subgraph "cluster_李维汉"
+	{
+		fontsize="18";
+		label="李维汉家族";
+		李维汉;金维映;李铁映;李力践;李铁林;
+	}
+
+	subgraph "cluster_博古"
+	{
+		fontsize="18";
+		label="博古家族";
+		博古;秦铁;秦新华;
+	}
+
+}

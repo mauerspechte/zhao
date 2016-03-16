@@ -1,0 +1,135 @@
+
+digraph 开国中将
+{
+	rankdir = "LR";
+	ranksep = 0.5;
+	label = "开国中将";
+	labelloc = "t";
+	fontsize = "24";
+	fontname = "SimHei";
+
+	graph [style="filled", color="lightgrey"];
+	node [fontname="SimSun"];
+	edge [fontname="SimSun"];
+
+	孔从洲 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孔从洲 [1912]</td></tr><tr><td></td></tr><tr><td>开国中将<br/>炮兵副司令<br/></td></tr></table>>];
+	孔令华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孔令华</td></tr><tr><td></td></tr><tr><td>孔从洲之子、毛泽东女婿<br/>国防科工委干部<br/></td></tr></table>>];
+	孔继宁 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孔继宁 [1962]</td></tr><tr><td></td></tr><tr><td>毛泽东外孙<br/>总参谋部情报部助理武官<br/>东方昆仑董事长<br/></td></tr></table>>];
+	孔东梅 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>孔东梅 [1972]</td></tr><tr><td><img src="../data/person/孔东梅/portrait.png"/></td></tr><tr><td>毛泽东外孙女<br/>北京东润菊书香屋董事长<br/>美国籍<br/></td></tr></table>>];
+	陈东升 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈东升 [1957]</td></tr><tr><td><img src="../data/person/陈东升/portrait.png"/></td></tr><tr><td>嘉德拍卖创始人(天朝最大拍卖公司)<br/>泰康人寿创始人<br/>宅急送创始人<br/>资产过百亿<br/></td></tr></table>>];
+	李敏 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李敏 [1936]</td></tr><tr><td></td></tr><tr><td>毛泽东之女<br/></td></tr></table>>];
+	秦基伟 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦基伟 [1914]</td></tr><tr><td></td></tr><tr><td>开国中将，后升上将<br/>国防部长<br/></td></tr></table>>];
+	秦卫江 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦卫江</td></tr><tr><td><img src="../data/person/秦卫江/portrait.png"/></td></tr><tr><td>南京军区副司令<br/>中将军衔<br/></td></tr></table>>];
+	秦天 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦天</td></tr><tr><td>(原名:秦兵江)</td></tr><tr><td></td></tr><tr><td>国防大学科研部部长<br/>少将军衔<br/></td></tr></table>>];
+	秦畹江 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>秦畹江</td></tr><tr><td></td></tr><tr><td>秦基伟长女、杨成武儿媳<br/></td></tr></table>>];
+	杨东明 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨东明</td></tr><tr><td></td></tr><tr><td>杨成武之子、秦基伟女婿<br/>空军副司令员<br/>中将军衔<br/></td></tr></table>>];
+	余秋里 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>余秋里 [1914]</td></tr><tr><td></td></tr><tr><td>开国中将<br/>副总理<br/></td></tr></table>>];
+	余方方 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>余方方</td></tr><tr><td></td></tr><tr><td>余秋里之子、叶剑英女婿<br/>总参谋部高级军官<br/></td></tr></table>>];
+	叶文珊 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>叶文珊</td></tr><tr><td></td></tr><tr><td>叶剑英之女、余秋里儿媳<br/>海南华侨投资副董事长<br/></td></tr></table>>];
+	王诤 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王诤 [1909]</td></tr><tr><td></td></tr><tr><td>开国中将<br/>副总参谋长<br/></td></tr></table>>];
+	王苏民 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王苏民</td></tr><tr><td></td></tr><tr><td>中央警卫局副局长<br/>少将军衔<br/></td></tr></table>>];
+	王雷雷 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王雷雷 [1974]</td></tr><tr><td></td></tr><tr><td>空中网董事会主席、首席执行官<br/>TOM.COM中国区总经理<br/></td></tr></table>>];
+	王建新 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王建新</td></tr><tr><td></td></tr><tr><td>总参谋部61所所长<br/>少将军衔<br/></td></tr></table>>];
+	廖汉生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>廖汉生 [1911]</td></tr><tr><td><img src="../data/person/廖汉生/portrait.png"/></td></tr><tr><td>杨尚昆妹夫、贺龙外甥女婿<br/>开国中将<br/>南京军区政委<br/>全国人大副委员长<br/></td></tr></table>>];
+	廖建军 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>廖建军</td></tr><tr><td></td></tr><tr><td>总参谋部工程兵第四设计院副院长<br/></td></tr></table>>];
+	肖艮艮 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>肖艮艮</td></tr><tr><td></td></tr><tr><td>贺龙外甥女、廖汉生前妻<br/></td></tr></table>>];
+	杨白琳 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨白琳</td></tr><tr><td></td></tr><tr><td>杨尚昆之妹、廖汉生之妻(第2任)<br/></td></tr></table>>];
+	阎揆要 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>阎揆要 [1904]</td></tr><tr><td></td></tr><tr><td>开国中将<br/>济南军区副司令<br/></td></tr></table>>];
+	阎佑西 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>阎佑西</td></tr><tr><td></td></tr><tr><td>阎揆要之妹、秦力生之妻<br/></td></tr></table>>];
+	秦力生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦力生 [1915]</td></tr><tr><td></td></tr><tr><td>西康省委副书记<br/>中国科学院党组副书记、秘书长<br/></td></tr></table>>];
+	张震 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张震 [1914]</td></tr><tr><td><img src="../data/person/张震/portrait.png"/></td></tr><tr><td>开国中将，后升上将<br/>中央军委副主席<br/></td></tr></table>>];
+	张小阳 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张小阳 [1941]</td></tr><tr><td></td></tr><tr><td>解放军外国语学院院长<br/>总参三部副部长<br/>少将军衔<br/></td></tr></table>>];
+	张连阳 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张连阳 [1944]</td></tr><tr><td><img src="../data/person/张连阳/portrait.png"/></td></tr><tr><td>总参谋部军代局局长<br/>阿里巴巴董事<br/>少将军衔<br/></td></tr></table>>];
+	陈晓颖 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>陈晓颖 [1963]</td></tr><tr><td><img src="../data/person/陈晓颖/portrait.png"/></td></tr><tr><td>香港江胜集团股份有限公司董事长<br/>中信21世纪行政总裁<br/>中信国检董事长<br/>中国华润电力董事<br/>在香港购买太平山豪宅，总价6840万美元<br/>上述为香港史上最贵的10笔豪宅交易之一<br/></td></tr></table>>];
+	张海阳 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张海阳 [1949]</td></tr><tr><td><img src="../data/person/张海阳/portrait.png"/></td></tr><tr><td>张震之子、孙克骥女婿<br/>成都军区政委<br/>二炮政委<br/>上将军衔<br/></td></tr></table>>];
+	张宁阳 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张宁阳 [1950]</td></tr><tr><td></td></tr><tr><td>总后勤部交通运输部副部长<br/>少将军衔<br/></td></tr></table>>];
+	张燕阳 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>张燕阳 [1952]</td></tr><tr><td></td></tr><tr><td>张震幼女<br/></td></tr></table>>];
+	张振乾 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张振乾</td></tr><tr><td></td></tr><tr><td>总参谋部测绘局局长<br/>少将军衔<br/></td></tr></table>>];
+	孙随 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>孙随</td></tr><tr><td></td></tr><tr><td>孙克骥之女、张震儿媳<br/></td></tr></table>>];
+	寿晓松 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>寿晓松 [1951]</td></tr><tr><td><img src="../data/person/寿晓松/portrait.png"/></td></tr><tr><td>军事科学院战争理论和战略研究部部长<br/>中国“孙子兵法”研究会副会长<br/>少将军衔<br/></td></tr></table>>];
+	寿松涛 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>寿松涛 [1900]</td></tr><tr><td><img src="../data/person/寿松涛/portrait.png"/></td></tr><tr><td>新四军六旅十八团团长<br/>南京市委组织部副部长<br/>西北工业大学校长、党委书记<br/></td></tr></table>>];
+
+	孔从洲 -> 孔令华 [label="子", style=solid, color="blue"];
+	孔令华 -> 孔继宁 [label="子", style=solid, color="blue"];
+	李敏 -> 孔继宁 [label="子", style=solid, color="blue"];
+	孔令华 -> 孔东梅 [label="女", style=solid, color="red"];
+	李敏 -> 孔东梅 [label="女", style=solid, color="red"];
+	孔东梅 -> 陈东升 [label="夫", style=bold, color="blue"];
+	李敏 -> 孔令华 [label="夫", style=bold, color="blue"];
+	杨东明 -> 秦畹江 [label="妻", style=bold, color="red"];
+	秦基伟 -> 秦卫江 [label="长子", style=solid, color="blue"];
+	秦基伟 -> 秦天 [label="次子", style=solid, color="blue"];
+	秦基伟 -> 秦畹江 [label="长女", style=solid, color="red"];
+	余秋里 -> 余方方 [label="子", style=solid, color="blue"];
+	叶文珊 -> 余方方 [label="夫", style=bold, color="blue"];
+	王诤 -> 王苏民 [label="子", style=solid, color="blue"];
+	王苏民 -> 王雷雷 [label="子", style=solid, color="blue"];
+	王诤 -> 王建新 [label="子", style=solid, color="blue"];
+	廖汉生 -> 肖艮艮 [label="妻", style=bold, color="red"];
+	廖汉生 -> 杨白琳 [label="妻", style=bold, color="red"];
+	廖汉生 -> 廖建军 [label="子", style=solid, color="blue"];
+	杨白琳 -> 廖建军 [label="子", style=solid, color="blue"];
+	秦力生 -> 阎佑西 [label="妻", style=bold, color="red"];
+	阎揆要 -> 阎佑西 [label="妹", style=dashed, color="red"];
+	张震 -> 张小阳 [label="长子", style=solid, color="blue"];
+	张震 -> 张连阳 [label="次子", style=solid, color="blue"];
+	张连阳 -> 陈晓颖 [label="妻", style=bold, color="red"];
+	张震 -> 张海阳 [label="三子", style=solid, color="blue"];
+	张海阳 -> 孙随 [label="妻", style=bold, color="red"];
+	张震 -> 张宁阳 [label="四子", style=solid, color="blue"];
+	张震 -> 张燕阳 [label="女", style=solid, color="red"];
+	张燕阳 -> 寿晓松 [label="夫", style=bold, color="blue"];
+	寿晓松 -> 寿松涛 [label="父", style=solid, color="blue"];
+	张震 -> 张振乾 [label="侄子", style=dotted, color="blue"];
+
+
+	subgraph "cluster_孔从洲"
+	{
+		fontsize="18";
+		label="孔从洲家族";
+		孔从洲;孔令华;孔继宁;孔东梅;陈东升;
+	}
+
+	subgraph "cluster_秦基伟"
+	{
+		fontsize="18";
+		label="秦基伟家族";
+		秦基伟;秦卫江;秦天;秦畹江;
+	}
+
+	subgraph "cluster_余秋里"
+	{
+		fontsize="18";
+		label="余秋里家族";
+		余秋里;余方方;
+	}
+
+	subgraph "cluster_王诤"
+	{
+		fontsize="18";
+		label="王诤家族";
+		王诤;王苏民;王雷雷;王建新;
+	}
+
+	subgraph "cluster_廖汉生"
+	{
+		fontsize="18";
+		label="廖汉生家族";
+		廖汉生;廖建军;
+	}
+
+	subgraph "cluster_阎揆要"
+	{
+		fontsize="18";
+		label="阎揆要家族";
+		阎揆要;阎佑西;
+	}
+
+	subgraph "cluster_张震"
+	{
+		fontsize="18";
+		label="张震家族";
+		张震;张小阳;张连阳;陈晓颖;张海阳;张宁阳;张燕阳;张振乾;
+	}
+
+}

@@ -1,0 +1,153 @@
+
+digraph 第1代三品高官
+{
+	rankdir = "LR";
+	ranksep = 0.5;
+	label = "第1代三品高官";
+	labelloc = "t";
+	fontsize = "24";
+	fontname = "SimHei";
+
+	graph [style="filled", color="lightgrey"];
+	node [fontname="SimSun"];
+	edge [fontname="SimSun"];
+
+	刘向一 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘向一 [1914]</td></tr><tr><td><img src="../data/person/刘向一/portrait.png"/></td></tr><tr><td>中组部办公厅副主任<br/>甘肃省人民银行副行长<br/></td></tr></table>>];
+	刘长乐 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘长乐 [1951]</td></tr><tr><td><img src="../data/person/刘长乐/portrait.png"/></td></tr><tr><td>凤凰卫视创始人、董事局主席<br/>全国政协常委<br/>(跻身胡润内地富豪榜)<br/></td></tr></table>>];
+	刘海滨 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘海滨 [1908]</td></tr><tr><td></td></tr><tr><td>延安卫戍区副司令员<br/>西北军区后勤部政委<br/></td></tr></table>>];
+	刘晓江 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘晓江 [1949]</td></tr><tr><td></td></tr><tr><td>刘海滨之子、胡耀邦女婿<br/>海军政委<br/>海军上将军衔<br/></td></tr></table>>];
+	李恒 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李恒</td></tr><tr><td>(曾用名:李满妹)</td></tr><tr><td></td></tr><tr><td>胡耀邦之女、刘海滨儿媳<br/>华润集团高管<br/>葛兰素史克高管<br/>(随母姓李)<br/></td></tr></table>>];
+	秦力真 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦力真 [1914]</td></tr><tr><td><img src="../data/person/秦力真/portrait.png"/></td></tr><tr><td>李肇星岳父<br/>第一代外交官<br/>刘少奇秘书<br/></td></tr></table>>];
+	秦晓鹰 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦晓鹰 [1948]</td></tr><tr><td></td></tr><tr><td>《中国财经报》社长、总编辑<br/>中央外宣办副主任<br/></td></tr></table>>];
+	秦枫 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>秦枫</td></tr><tr><td></td></tr><tr><td>香港卫视新闻采访总监<br/>(此人因在微博上讥讽骆家辉，被网友人肉)<br/></td></tr></table>>];
+	秦小梅 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>秦小梅</td></tr><tr><td><img src="../data/person/秦小梅/portrait.png"/></td></tr><tr><td>秦力真之女、李肇星之妻<br/>外交部驻香港特派员公署国际部主任<br/>中国外交家协会会长<br/>中国外交官联谊会副会长<br/></td></tr></table>>];
+	李肇星 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李肇星 [1940]</td></tr><tr><td><img src="../data/person/李肇星/portrait.png"/></td></tr><tr><td>秦力真女婿<br/>外交部长<br/></td></tr></table>>];
+	秦力生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦力生 [1915]</td></tr><tr><td></td></tr><tr><td>西康省委副书记<br/>中国科学院党组副书记、秘书长<br/></td></tr></table>>];
+	秦晓 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦晓 [1947]</td></tr><tr><td></td></tr><tr><td>中信集团总经理<br/>中信实业银行董事长<br/>亚洲卫星公司董事长<br/>招商局集团董事长<br/>招商银行董事长<br/></td></tr></table>>];
+	秦晋 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>秦晋</td></tr><tr><td></td></tr><tr><td>光明日报社文艺部主任<br/></td></tr></table>>];
+	秦昭 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>秦昭</td></tr><tr><td></td></tr><tr><td>秦力生之女、陈昊苏之妻<br/></td></tr></table>>];
+	阎佑西 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>阎佑西</td></tr><tr><td></td></tr><tr><td>阎揆要之妹、秦力生之妻<br/></td></tr></table>>];
+	陈昊苏 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈昊苏 [1942]</td></tr><tr><td></td></tr><tr><td>陈毅之子、秦力生女婿<br/>中国人民对外友好协会会长<br/></td></tr></table>>];
+	中信集团 [shape="ellipse", color="green", label=<<table border="0" cellborder="0"><tr><td>中信集团</td></tr><tr><td>(中国国际信托投资公司)</td></tr><tr><td></td></tr><tr><td>1979年邓小平批准成立<br/>主要业务：金融、实业、服务业<br/>80年代十大官倒公司之首<br/></td></tr></table>>];
+	陈伟达 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈伟达 [1916]</td></tr><tr><td></td></tr><tr><td>天津市委第一书记兼天津警备区第一政委<br/>中央政法委副书记<br/></td></tr></table>>];
+	陈同海 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈同海 [1948]</td></tr><tr><td></td></tr><tr><td>国家计委副主任<br/>中国石化董事长<br/>因贪污判处死缓<br/></td></tr></table>>];
+	杨显东 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨显东 [1902]</td></tr><tr><td></td></tr><tr><td>国家农业部副部长(任职长达40年)<br/></td></tr></table>>];
+	杨元惺 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>杨元惺 [1942]</td></tr><tr><td></td></tr><tr><td>刘延东之夫、杨显东之子、刘瑞龙女婿<br/>中国艺术摄影学会主席<br/>北京鲁艺房地产董事长<br/></td></tr></table>>];
+	杨帆 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>杨帆 [1972]</td></tr><tr><td></td></tr><tr><td>刘延东之女<br/></td></tr></table>>];
+	冯琦 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>冯琦</td></tr><tr><td></td></tr><tr><td>TOM.com 董事<br/></td></tr></table>>];
+	刘延东 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘延东 [1945]</td></tr><tr><td><img src="../data/person/刘延东/portrait.png"/></td></tr><tr><td>刘瑞龙之女、杨显东儿媳<br/>副总理<br/>中共中央统战部长<br/>政治局委员<br/></td></tr></table>>];
+	朱理治 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>朱理治 [1907]</td></tr><tr><td>(原名:朱铭勋)</td></tr><tr><td></td></tr><tr><td>国家交通部副部长<br/>(此人在陕北搞肃反，干掉了包括刘志丹在内的一批人)<br/></td></tr></table>>];
+	朱尔谨 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>朱尔谨 [1934]</td></tr><tr><td></td></tr><tr><td>任弼时女婿、朱理治之子<br/></td></tr></table>>];
+	任远征 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>任远征 [1936]</td></tr><tr><td></td></tr><tr><td>任弼时之女、朱理治儿媳<br/>中纪委第三纪检监察室主任<br/></td></tr></table>>];
+	徐运北 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>徐运北</td></tr><tr><td></td></tr><tr><td>国家轻工部副部长<br/></td></tr></table>>];
+	徐念沙 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>徐念沙</td></tr><tr><td></td></tr><tr><td>徐运北之子、刘华清女婿<br/>中国机械工业集团党委书记、副董事长<br/>中国海洋航空集团董事长、总经理<br/>华海房地产总经理<br/></td></tr></table>>];
+	徐南南 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>徐南南</td></tr><tr><td></td></tr><tr><td>洛杉矶远东国家银行副总裁<br/>美国籍<br/>曾卷入中共在美国的政治献金案 (1996年)<br/></td></tr></table>>];
+	刘晓莉 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘晓莉</td></tr><tr><td></td></tr><tr><td>刘华清之女、徐运北儿媳<br/>中国光大旅游副总<br/></td></tr></table>>];
+	李范五 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李范五 [1912]</td></tr><tr><td>(原名:李福德)</td></tr><tr><td></td></tr><tr><td>黑龙江省委书记、省长<br/></td></tr></table>>];
+	李黎力 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李黎力</td></tr><tr><td></td></tr><tr><td>李范五之女、董必武儿媳<br/></td></tr></table>>];
+	董良羽 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>董良羽 [1938]</td></tr><tr><td></td></tr><tr><td>董必武之子、李范五女婿<br/>北京军区空军参谋<br/>大校军衔<br/></td></tr></table>>];
+	阎宝航 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>阎宝航 [1895]</td></tr><tr><td><img src="../data/person/阎宝航/portrait.png"/></td></tr><tr><td>民国政府内的中共间谍<br/></td></tr></table>>];
+	阎明复 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>阎明复 [1931]</td></tr><tr><td><img src="../data/person/阎明复/portrait.png"/></td></tr><tr><td>全国政协副主席<br/>统战部部长<br/>(六四事件后被免职)<br/></td></tr></table>>];
+	阎明光 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>阎明光</td></tr><tr><td></td></tr><tr><td>上海申大集团董事长<br/>上海广电集团党委副书记<br/></td></tr></table>>];
+
+	刘向一 -> 刘长乐 [label="子", style=solid, color="blue"];
+	刘海滨 -> 刘晓江 [label="子", style=solid, color="blue"];
+	刘晓江 -> 李恒 [label="妻", style=bold, color="red"];
+	李肇星 -> 秦小梅 [label="妻", style=bold, color="red"];
+	秦力真 -> 秦晓鹰 [label="子", style=solid, color="blue"];
+	秦晓鹰 -> 秦枫 [label="女", style=solid, color="red"];
+	秦力真 -> 秦小梅 [label="女", style=solid, color="red"];
+	秦力生 -> 阎佑西 [label="妻", style=bold, color="red"];
+	秦力生 -> 秦晓 [label="子", style=solid, color="blue"];
+	秦力生 -> 秦晋 [label="子", style=solid, color="blue"];
+	秦力生 -> 秦昭 [label="女", style=solid, color="red"];
+	秦晓 -> 中信集团 [label="集团总经理", style=dotted, color="green"];
+	陈昊苏 -> 秦昭 [label="妻", style=bold, color="red"];
+	陈伟达 -> 陈同海 [label="子", style=solid, color="blue"];
+	刘延东 -> 杨元惺 [label="夫", style=bold, color="blue"];
+	刘延东 -> 杨帆 [label="女", style=solid, color="red"];
+	杨元惺 -> 杨帆 [label="女", style=solid, color="red"];
+	杨帆 -> 冯琦 [label="夫", style=bold, color="blue"];
+	杨显东 -> 杨元惺 [label="子", style=solid, color="blue"];
+	朱理治 -> 朱尔谨 [label="子", style=solid, color="blue"];
+	任远征 -> 朱尔谨 [label="夫", style=bold, color="blue"];
+	刘晓莉 -> 徐念沙 [label="夫", style=bold, color="blue"];
+	徐运北 -> 徐念沙 [label="子", style=solid, color="blue"];
+	徐运北 -> 徐南南 [label="女", style=solid, color="red"];
+	李范五 -> 李黎力 [label="女", style=solid, color="red"];
+	董良羽 -> 李黎力 [label="妻", style=bold, color="red"];
+	阎宝航 -> 阎明复 [label="子", style=solid, color="blue"];
+	阎宝航 -> 阎明光 [label="女", style=solid, color="red"];
+
+
+	subgraph "cluster_刘向一"
+	{
+		fontsize="18";
+		label="刘向一家族";
+		刘向一;刘长乐;
+	}
+
+	subgraph "cluster_刘海滨"
+	{
+		fontsize="18";
+		label="刘海滨家族";
+		刘海滨;刘晓江;
+	}
+
+	subgraph "cluster_秦力真"
+	{
+		fontsize="18";
+		label="秦力真家族";
+		秦力真;秦晓鹰;秦枫;秦小梅;
+	}
+
+	subgraph "cluster_秦力生"
+	{
+		fontsize="18";
+		label="秦力生家族";
+		秦力生;秦晓;秦晋;秦昭;
+	}
+
+	subgraph "cluster_陈伟达"
+	{
+		fontsize="18";
+		label="陈伟达家族";
+		陈伟达;陈伟达;陈同海;
+	}
+
+	subgraph "cluster_杨显东"
+	{
+		fontsize="18";
+		label="杨显东家族";
+		杨显东;杨元惺;杨帆;冯琦;
+	}
+
+	subgraph "cluster_朱理治"
+	{
+		fontsize="18";
+		label="朱理治家族";
+		朱理治;朱尔谨;
+	}
+
+	subgraph "cluster_徐运北"
+	{
+		fontsize="18";
+		label="徐运北家族";
+		徐运北;徐念沙;徐南南;
+	}
+
+	subgraph "cluster_李范五"
+	{
+		fontsize="18";
+		label="李范五家族";
+		李范五;李黎力;
+	}
+
+	subgraph "cluster_阎宝航"
+	{
+		fontsize="18";
+		label="阎宝航家族";
+		阎宝航;阎明复;阎明光;
+	}
+
+}

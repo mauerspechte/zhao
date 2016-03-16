@@ -1,0 +1,146 @@
+
+digraph 开国少将
+{
+	rankdir = "LR";
+	ranksep = 0.5;
+	label = "开国少将";
+	labelloc = "t";
+	fontsize = "24";
+	fontname = "SimHei";
+
+	graph [style="filled", color="lightgrey"];
+	node [fontname="SimSun"];
+	edge [fontname="SimSun"];
+
+	孙克骥 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>孙克骥 [1917]</td></tr><tr><td></td></tr><tr><td>开国少将<br/></td></tr></table>>];
+	孙随 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>孙随</td></tr><tr><td></td></tr><tr><td>孙克骥之女、张震儿媳<br/></td></tr></table>>];
+	张海阳 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张海阳 [1949]</td></tr><tr><td><img src="../data/person/张海阳/portrait.png"/></td></tr><tr><td>张震之子、孙克骥女婿<br/>成都军区政委<br/>二炮政委<br/>上将军衔<br/></td></tr></table>>];
+	张震寰 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张震寰 [1915]</td></tr><tr><td></td></tr><tr><td>开国少将<br/>国防科工委主任<br/></td></tr></table>>];
+	张志凯 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>张志凯</td></tr><tr><td></td></tr><tr><td>张震寰之女、黄敬儿媳、俞正声之妻<br/></td></tr></table>>];
+	俞正声 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>俞正声 [1945]</td></tr><tr><td><img src="../data/person/俞正声/portrait.png"/></td></tr><tr><td>黄敬之子、张震寰女婿<br/>全国政协主席<br/>历任上海、湖北一把手<br/>政治局常委<br/></td></tr></table>>];
+	李夫克 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李夫克 [1915]</td></tr><tr><td>(原名:李瑚开)</td></tr><tr><td></td></tr><tr><td>开国少将<br/></td></tr></table>>];
+	李曼俊 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李曼俊 [1942]</td></tr><tr><td></td></tr><tr><td>李夫克之女、粟裕儿媳<br/>电子工业部6所所长、党委书记<br/>中国计算机系统工程公司创始人<br/>北京华胜计算机董事长<br/></td></tr></table>>];
+	粟戎生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>粟戎生 [1942]</td></tr><tr><td></td></tr><tr><td>粟裕之子、李夫克女婿<br/>北京军区副司令员<br/>中将军衔<br/></td></tr></table>>];
+	王智涛 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王智涛 [1906]</td></tr><tr><td></td></tr><tr><td>开国少将<br/></td></tr></table>>];
+	王亚明 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王亚明</td></tr><tr><td></td></tr><tr><td>王智涛之子、姬鹏飞女婿<br/>中国人民保险处长<br/></td></tr></table>>];
+	姬巧玲 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>姬巧玲</td></tr><tr><td></td></tr><tr><td>姬鹏飞之女、王智涛儿媳<br/>国家开发银行副行长、信贷局局长<br/></td></tr></table>>];
+	吴西 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>吴西 [1900]</td></tr><tr><td></td></tr><tr><td>开国少将<br/>海军后勤部副政委<br/></td></tr></table>>];
+	吴黎明 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>吴黎明</td></tr><tr><td></td></tr><tr><td>吴西之子、罗荣桓女婿<br/>海军研究院副军级文职调研员<br/></td></tr></table>>];
+	罗宁 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>罗宁 [1951]</td></tr><tr><td></td></tr><tr><td>罗荣桓之女、吴西儿媳<br/>北京凯星实业董事长<br/></td></tr></table>>];
+	谷景生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>谷景生 [1913]</td></tr><tr><td></td></tr><tr><td>开国少将<br/>广州军区副政委<br/></td></tr></table>>];
+	谷望江 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谷望江</td></tr><tr><td></td></tr><tr><td>香港喜多来集团创始人<br/>东港股份大股东 (深圳上市)<br/>香港籍<br/></td></tr></table>>];
+	谷政协 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谷政协</td></tr><tr><td></td></tr><tr><td>中国机械工业集团纪委书记<br/></td></tr></table>>];
+	谷丹 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谷丹</td></tr><tr><td></td></tr><tr><td>谷景生之女、李雪峰儿媳<br/></td></tr></table>>];
+	谷望宁 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谷望宁</td></tr><tr><td></td></tr><tr><td>香港喜多来集团创始人<br/></td></tr></table>>];
+	谷开来 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>谷开来 [1958]</td></tr><tr><td><img src="../data/person/谷开来/portrait.png"/></td></tr><tr><td>谷景生之女、薄熙来之妻、薄一波儿媳<br/>北京开来律师所所长<br/>香港籍、新加坡绿卡<br/></td></tr></table>>];
+	李小雪 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李小雪</td></tr><tr><td></td></tr><tr><td>李雪峰之子、谷景生女婿<br/>中国证监会纪委书记<br/></td></tr></table>>];
+	薄熙来 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄熙来 [1949]</td></tr><tr><td><img src="../data/person/薄熙来/portrait.png"/></td></tr><tr><td>薄一波之子、李雪峰女婿、谷景生女婿<br/>政治局委员<br/>重庆市委书记<br/></td></tr></table>>];
+	薄瓜瓜 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>薄瓜瓜 [1987]</td></tr><tr><td><img src="../data/person/薄瓜瓜/portrait.png"/></td></tr><tr><td>薄熙来与谷开来之子<br/>就读英国贵族学校哈罗公学(靠海伍德的关系)<br/>入读牛津大学两年后成绩太差被劝退<br/></td></tr></table>>];
+	贺彪 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>贺彪 [1909]</td></tr><tr><td><img src="../data/person/贺彪/portrait.png"/></td></tr><tr><td>邓小平亲家<br/>开国少将<br/>总后勤部副部长<br/>卫生部副部长<br/></td></tr></table>>];
+	贺斗 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>贺斗</td></tr><tr><td></td></tr><tr><td>北京某公司总经理<br/></td></tr></table>>];
+	贺争 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>贺争</td></tr><tr><td></td></tr><tr><td>中信集团大隆公司董事长<br/>北京隆源实业副董事长<br/></td></tr></table>>];
+	贺平 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>贺平</td></tr><tr><td><img src="../data/person/贺平/portrait.png"/></td></tr><tr><td>贺彪之子、邓小平女婿<br/>总装备部部长<br/>中国保利集团董事长、总经理<br/>少将军衔<br/>(此人军界商界通吃)<br/></td></tr></table>>];
+	邓榕 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>邓榕 [1950]</td></tr><tr><td>(笔名:萧榕)</td></tr><tr><td><img src="../data/person/邓榕/portrait.png"/></td></tr><tr><td>总政治部组织部副处长<br/>中国国际友好联络会副会长<br/></td></tr></table>>];
+	保利集团 [shape="ellipse", color="green", label=<<table border="0" cellborder="0"><tr><td>保利集团</td></tr><tr><td>(中国保利集团公司)</td></tr><tr><td></td></tr><tr><td>1983年由总参谋部与中信合办“保利科技公司”<br/>1992年升格为“中国保利集团公司”<br/>主要业务：军火进出口、房地产、矿产开发<br/>2000年61家资产过百亿国企之一<br/></td></tr></table>>];
+	刘华清 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘华清 [1916]</td></tr><tr><td><img src="../data/person/刘华清/portrait.png"/></td></tr><tr><td>开国海军少将，后升上将<br/>政治局常委<br/>军委副主席<br/></td></tr></table>>];
+	刘维明_2 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘维明</td></tr><tr><td></td></tr><tr><td>总装备部局长<br/>少将军衔<br/>(与刘少奇侄子同名)<br/></td></tr></table>>];
+	郑莉 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>郑莉</td></tr><tr><td></td></tr><tr><td>总政治部军官<br/>因卷入远华案被捕<br/></td></tr></table>>];
+	刘卓明 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘卓明</td></tr><tr><td></td></tr><tr><td>总装备部科技委副主任<br/>海军指挥学院院长<br/>中将军衔<br/></td></tr></table>>];
+	刘超英 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘超英</td></tr><tr><td>(曾用名:刘朝英)</td></tr><tr><td></td></tr><tr><td>总参谋部情报部五局副局长<br/>中国航天国际控股经理<br/>上校军衔<br/>曾卷入中共在美国政治献金案(1996年)<br/>曾卷入远华案<br/></td></tr></table>>];
+	潘岳 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>潘岳</td></tr><tr><td></td></tr><tr><td>国家体改办副主任<br/>国家环保总局副局长<br/></td></tr></table>>];
+	刘晓莉 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>刘晓莉</td></tr><tr><td></td></tr><tr><td>刘华清之女、徐运北儿媳<br/>中国光大旅游副总<br/></td></tr></table>>];
+	刘长银 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>刘长银</td></tr><tr><td></td></tr><tr><td>成都军区副政委<br/>广州军区副政委<br/>中将军衔<br/></td></tr></table>>];
+	徐念沙 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>徐念沙</td></tr><tr><td></td></tr><tr><td>徐运北之子、刘华清女婿<br/>中国机械工业集团党委书记、副董事长<br/>中国海洋航空集团董事长、总经理<br/>华海房地产总经理<br/></td></tr></table>>];
+
+	孙克骥 -> 孙随 [label="女", style=solid, color="red"];
+	张海阳 -> 孙随 [label="妻", style=bold, color="red"];
+	俞正声 -> 张志凯 [label="妻", style=bold, color="red"];
+	张震寰 -> 张志凯 [label="女", style=solid, color="red"];
+	李夫克 -> 李曼俊 [label="女", style=solid, color="red"];
+	粟戎生 -> 李曼俊 [label="妻", style=bold, color="red"];
+	姬巧玲 -> 王亚明 [label="夫", style=bold, color="blue"];
+	王智涛 -> 王亚明 [label="子", style=solid, color="blue"];
+	吴西 -> 吴黎明 [label="子", style=solid, color="blue"];
+	吴黎明 -> 罗宁 [label="妻", style=bold, color="red"];
+	李小雪 -> 谷丹 [label="妻", style=bold, color="red"];
+	薄熙来 -> 谷开来 [label="妻", style=bold, color="red"];
+	薄熙来 -> 薄瓜瓜 [label="次子", style=solid, color="blue"];
+	谷开来 -> 薄瓜瓜 [label="子", style=solid, color="blue"];
+	谷景生 -> 谷望江 [label="长女", style=solid, color="red"];
+	谷景生 -> 谷政协 [label="次女", style=solid, color="red"];
+	谷景生 -> 谷丹 [label="三女", style=solid, color="red"];
+	谷景生 -> 谷望宁 [label="四女", style=solid, color="red"];
+	谷景生 -> 谷开来 [label="五女", style=solid, color="red"];
+	贺彪 -> 贺斗 [label="长子", style=solid, color="blue"];
+	贺彪 -> 贺争 [label="次子", style=solid, color="blue"];
+	贺彪 -> 贺平 [label="三子", style=solid, color="blue"];
+	贺平 -> 保利集团 [label="集团董事长、总经理", style=dotted, color="green"];
+	邓榕 -> 贺平 [label="夫", style=bold, color="blue"];
+	邓榕 -> 保利集团 [label="集团高管", style=dotted, color="green"];
+	刘华清 -> 刘维明_2 [label="子", style=solid, color="blue"];
+	刘维明_2 -> 郑莉 [label="妻", style=bold, color="red"];
+	刘华清 -> 刘卓明 [label="子", style=solid, color="blue"];
+	刘华清 -> 刘超英 [label="长女", style=solid, color="red"];
+	刘超英 -> 潘岳 [label="夫", style=bold, color="blue"];
+	刘华清 -> 刘晓莉 [label="次女", style=solid, color="red"];
+	刘晓莉 -> 徐念沙 [label="夫", style=bold, color="blue"];
+	刘华清 -> 刘长银 [label="侄子", style=dotted, color="blue"];
+
+
+	subgraph "cluster_孙克骥"
+	{
+		fontsize="18";
+		label="孙克骥家族";
+		孙克骥;孙随;
+	}
+
+	subgraph "cluster_张震寰"
+	{
+		fontsize="18";
+		label="张震寰家族";
+		张震寰;张志凯;
+	}
+
+	subgraph "cluster_李夫克"
+	{
+		fontsize="18";
+		label="李夫克家族";
+		李夫克;李曼俊;
+	}
+
+	subgraph "cluster_王智涛"
+	{
+		fontsize="18";
+		label="王智涛家族";
+		王智涛;王亚明;
+	}
+
+	subgraph "cluster_吴西"
+	{
+		fontsize="18";
+		label="吴西家族";
+		吴西;吴黎明;
+	}
+
+	subgraph "cluster_谷景生"
+	{
+		fontsize="18";
+		label="谷景生家族";
+		谷景生;谷望江;谷政协;谷丹;谷望宁;谷开来;
+	}
+
+	subgraph "cluster_贺彪"
+	{
+		fontsize="18";
+		label="贺彪家族";
+		贺彪;贺斗;贺争;贺平;
+	}
+
+	subgraph "cluster_刘华清"
+	{
+		fontsize="18";
+		label="刘华清家族";
+		刘华清;刘维明_2;郑莉;刘卓明;刘超英;潘岳;刘晓莉;刘长银;
+	}
+
+}

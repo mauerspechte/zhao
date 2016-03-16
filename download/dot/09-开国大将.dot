@@ -1,0 +1,168 @@
+
+digraph 开国大将
+{
+	rankdir = "LR";
+	ranksep = 0.5;
+	label = "开国大将";
+	labelloc = "t";
+	fontsize = "24";
+	fontname = "SimHei";
+
+	graph [style="filled", color="lightgrey"];
+	node [fontname="SimSun"];
+	edge [fontname="SimSun"];
+
+	许光达 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>许光达 [1908]</td></tr><tr><td><img src="../data/person/许光达/portrait.png"/></td></tr><tr><td>开国大将<br/>装甲兵司令<br/></td></tr></table>>];
+	许延滨 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>许延滨 [1939]</td></tr><tr><td></td></tr><tr><td>装甲兵工程学院院长<br/>少将军衔<br/></td></tr></table>>];
+	王树声 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王树声 [1905]</td></tr><tr><td></td></tr><tr><td>开国大将<br/>国防部副部长<br/></td></tr></table>>];
+	王鲁光 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>王鲁光</td></tr><tr><td></td></tr><tr><td>中国残疾人福利基金会副理事长<br/></td></tr></table>>];
+	罗瑞卿 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>罗瑞卿 [1906]</td></tr><tr><td><img src="../data/person/罗瑞卿/portrait.png"/></td></tr><tr><td>开国大将<br/>总参谋长<br/>副总理<br/></td></tr></table>>];
+	罗箭 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>罗箭 [1938]</td></tr><tr><td>(曾用名:罗小卿)</td></tr><tr><td></td></tr><tr><td>罗瑞卿之子、林枫女婿<br/>总装备部后勤部副政委<br/>少将军衔<br/></td></tr></table>>];
+	罗裕田 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>罗裕田</td></tr><tr><td></td></tr><tr><td>罗瑞卿之女<br/></td></tr></table>>];
+	邓佑生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>邓佑生</td></tr><tr><td></td></tr><tr><td>罗瑞卿女婿<br/>国防科工委计划部副部长<br/>国防科工委外事局局长<br/>少将军衔<br/></td></tr></table>>];
+	林耿耿 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>林耿耿</td></tr><tr><td></td></tr><tr><td>林枫之女、罗瑞卿儿媳<br/>外交部机关党委书记<br/></td></tr></table>>];
+	张云逸 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张云逸 [1892]</td></tr><tr><td></td></tr><tr><td>开国大将<br/></td></tr></table>>];
+	张远之 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张远之 [1928]</td></tr><tr><td></td></tr><tr><td>国家核工业部四局副局长<br/></td></tr></table>>];
+	王婷 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>王婷 [1931]</td></tr><tr><td></td></tr><tr><td>北京国家图书馆主任<br/></td></tr></table>>];
+	张晓强 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张晓强 [1952]</td></tr><tr><td></td></tr><tr><td>国家计委秘书长<br/>国家发改委副主任<br/></td></tr></table>>];
+	张光东 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>张光东 [1946]</td></tr><tr><td></td></tr><tr><td>石家庄陆军指挥学院副院长<br/>少将军衔<br/></td></tr></table>>];
+	萧劲光 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>萧劲光 [1903]</td></tr><tr><td><img src="../data/person/萧劲光/portrait.png"/></td></tr><tr><td>开国大将<br/>海军司令<br/></td></tr></table>>];
+	肖永定 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>肖永定</td></tr><tr><td></td></tr><tr><td>国家机电轻纺总经理<br/></td></tr></table>>];
+	肖伯膺 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>肖伯膺</td></tr><tr><td></td></tr><tr><td>中将军衔<br/></td></tr></table>>];
+	肖卓能 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>肖卓能</td></tr><tr><td></td></tr><tr><td>山东政协副主席<br/></td></tr></table>>];
+	李谷一 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李谷一 [1944]</td></tr><tr><td></td></tr><tr><td>中国轻音乐团团长<br/>中国音乐家协会副主席<br/></td></tr></table>>];
+	肖策能 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>肖策能</td></tr><tr><td></td></tr><tr><td>国防科工委科技部六局局长<br/>海南省政府秘书长<br/></td></tr></table>>];
+	肖新华 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>肖新华</td></tr><tr><td></td></tr><tr><td>武警军官<br/>少将军衔<br/></td></tr></table>>];
+	肖凯 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>肖凯</td></tr><tr><td></td></tr><tr><td>北影领导<br/></td></tr></table>>];
+	李海涛 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>李海涛</td></tr><tr><td></td></tr><tr><td>中国海洋画研究院院长<br/></td></tr></table>>];
+	朱仲芷 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>朱仲芷 [1904]</td></tr><tr><td>(曾用名:朱慕慈)</td></tr><tr><td></td></tr><tr><td>朱剑凡之女、萧劲光之妻<br/></td></tr></table>>];
+	谭政 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>谭政 [1906]</td></tr><tr><td></td></tr><tr><td>开国大将<br/>总政治部主任<br/>(无子女)<br/></td></tr></table>>];
+	陈秋葵 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>陈秋葵</td></tr><tr><td></td></tr><tr><td>陈赓之妹、谭政之妻<br/></td></tr></table>>];
+	陈赓 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈赓 [1903]</td></tr><tr><td><img src="../data/person/陈赓/portrait.png"/></td></tr><tr><td>开国大将<br/>副总参谋长<br/>国防部副部长<br/></td></tr></table>>];
+	陈知非 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈知非</td></tr><tr><td></td></tr><tr><td>国家航天部高工<br/></td></tr></table>>];
+	陈知建 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈知建</td></tr><tr><td></td></tr><tr><td>重庆警备区副司令员<br/>少将军衔<br/></td></tr></table>>];
+	陈知庶 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈知庶</td></tr><tr><td><img src="../data/person/陈知庶/portrait.png"/></td></tr><tr><td>甘肃省军区司令员<br/>解放军驻香港部队副司令员<br/>少将军衔<br/></td></tr></table>>];
+	陈知涯 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈知涯</td></tr><tr><td><img src="../data/person/陈知涯/portrait.png"/></td></tr><tr><td>中国国际战略基金会秘书长<br/>少将军衔<br/></td></tr></table>>];
+	黄克诚 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>黄克诚 [1902]</td></tr><tr><td><img src="../data/person/黄克诚/portrait.png"/></td></tr><tr><td>开国大将<br/>总参谋长<br/></td></tr></table>>];
+	黄煦 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>黄煦 [1944]</td></tr><tr><td></td></tr><tr><td>中国海洋航空总工程师<br/></td></tr></table>>];
+	黄晴 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>黄晴</td></tr><tr><td></td></tr><tr><td>人民日报国际部主任<br/></td></tr></table>>];
+	黄浦 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>黄浦</td></tr><tr><td></td></tr><tr><td>高能物理研究所副主任<br/></td></tr></table>>];
+	徐海东 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>徐海东 [1900]</td></tr><tr><td></td></tr><tr><td>开国大将<br/></td></tr></table>>];
+	徐文伯 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>徐文伯</td></tr><tr><td></td></tr><tr><td>文化部副部长<br/></td></tr></table>>];
+	粟裕 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>粟裕 [1907]</td></tr><tr><td><img src="../data/person/粟裕/portrait.png"/></td></tr><tr><td>排名第一的开国大将<br/></td></tr></table>>];
+	粟戎生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>粟戎生 [1942]</td></tr><tr><td></td></tr><tr><td>粟裕之子、李夫克女婿<br/>北京军区副司令员<br/>中将军衔<br/></td></tr></table>>];
+	粟志军 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>粟志军</td></tr><tr><td></td></tr><tr><td>卓越国际投资总经理<br/></td></tr></table>>];
+	粟寒生 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>粟寒生</td></tr><tr><td><img src="../data/person/粟寒生/portrait.png"/></td></tr><tr><td>中国远洋副经理<br/></td></tr></table>>];
+	粟惠宁 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>粟惠宁</td></tr><tr><td></td></tr><tr><td>粟裕之女、陈毅儿媳<br/>二炮高级军官<br/>大校军衔<br/></td></tr></table>>];
+	李曼俊 [shape="box", color="red", label=<<table border="0" cellborder="0"><tr><td>李曼俊 [1942]</td></tr><tr><td></td></tr><tr><td>李夫克之女、粟裕儿媳<br/>电子工业部6所所长、党委书记<br/>中国计算机系统工程公司创始人<br/>北京华胜计算机董事长<br/></td></tr></table>>];
+	陈小鲁 [shape="box", color="blue", label=<<table border="0" cellborder="0"><tr><td>陈小鲁 [1946]</td></tr><tr><td><img src="../data/person/陈小鲁/portrait.png"/></td></tr><tr><td>陈毅之子、粟裕女婿<br/>中央政治体制改革研究室社会局局长<br/>北京国际战略问题研究学会副秘书长<br/>安邦保险早期大股东<br/>标准投资集团大股东、法人、总经理<br/>(早期持股40%，后扩到90%)<br/>标准国际投资管理公司总经理<br/>海南亚龙湾开发股份有限公司总经理<br/></td></tr></table>>];
+
+	许光达 -> 许延滨 [label="独子", style=solid, color="blue"];
+	王树声 -> 王鲁光 [label="子", style=solid, color="blue"];
+	罗瑞卿 -> 罗箭 [label="长子", style=solid, color="blue"];
+	罗箭 -> 林耿耿 [label="妻", style=bold, color="red"];
+	罗瑞卿 -> 罗裕田 [label="次女", style=solid, color="red"];
+	罗裕田 -> 邓佑生 [label="夫", style=bold, color="blue"];
+	张云逸 -> 张远之 [label="次子", style=solid, color="blue"];
+	张远之 -> 王婷 [label="妻", style=bold, color="red"];
+	张远之 -> 张晓强 [label="子", style=solid, color="blue"];
+	张云逸 -> 张光东 [label="三子", style=solid, color="blue"];
+	萧劲光 -> 朱仲芷 [label="妻", style=bold, color="red"];
+	萧劲光 -> 肖永定 [label="子", style=solid, color="blue"];
+	萧劲光 -> 肖伯膺 [label="子", style=solid, color="blue"];
+	萧劲光 -> 肖卓能 [label="子", style=solid, color="blue"];
+	肖卓能 -> 李谷一 [label="妻", style=bold, color="red"];
+	萧劲光 -> 肖策能 [label="子", style=solid, color="blue"];
+	萧劲光 -> 肖新华 [label="子", style=solid, color="blue"];
+	萧劲光 -> 肖凯 [label="长女", style=solid, color="red"];
+	肖凯 -> 李海涛 [label="夫", style=bold, color="blue"];
+	谭政 -> 陈秋葵 [label="妻", style=bold, color="red"];
+	陈赓 -> 陈秋葵 [label="妹", style=dashed, color="red"];
+	陈赓 -> 陈知非 [label="长子", style=solid, color="blue"];
+	陈赓 -> 陈知建 [label="次子", style=solid, color="blue"];
+	陈赓 -> 陈知庶 [label="三子", style=solid, color="blue"];
+	陈赓 -> 陈知涯 [label="四子", style=solid, color="blue"];
+	黄克诚 -> 黄煦 [label="长子", style=solid, color="blue"];
+	黄克诚 -> 黄晴 [label="次子", style=solid, color="blue"];
+	黄克诚 -> 黄浦 [label="长女", style=solid, color="red"];
+	徐海东 -> 徐文伯 [label="子", style=solid, color="blue"];
+	粟裕 -> 粟戎生 [label="长子", style=solid, color="blue"];
+	粟戎生 -> 李曼俊 [label="妻", style=bold, color="red"];
+	粟戎生 -> 粟志军 [label="子", style=solid, color="blue"];
+	李曼俊 -> 粟志军 [label="子", style=solid, color="blue"];
+	粟裕 -> 粟寒生 [label="次子", style=solid, color="blue"];
+	粟裕 -> 粟惠宁 [label="女", style=solid, color="red"];
+	陈小鲁 -> 粟惠宁 [label="妻", style=bold, color="red"];
+
+
+	subgraph "cluster_许光达"
+	{
+		fontsize="18";
+		label="许光达家族";
+		许光达;许延滨;
+	}
+
+	subgraph "cluster_王树声"
+	{
+		fontsize="18";
+		label="王树声家族";
+		王树声;王鲁光;
+	}
+
+	subgraph "cluster_罗瑞卿"
+	{
+		fontsize="18";
+		label="罗瑞卿家族";
+		罗瑞卿;罗箭;罗裕田;邓佑生;
+	}
+
+	subgraph "cluster_张云逸"
+	{
+		fontsize="18";
+		label="张云逸家族";
+		张云逸;张远之;王婷;张晓强;张光东;
+	}
+
+	subgraph "cluster_萧劲光"
+	{
+		fontsize="18";
+		label="萧劲光家族";
+		萧劲光;肖永定;肖伯膺;肖卓能;李谷一;肖策能;肖新华;肖凯;李海涛;
+	}
+
+	subgraph "cluster_谭政"
+	{
+		fontsize="18";
+		label="谭政家族";
+		谭政;陈秋葵;
+	}
+
+	subgraph "cluster_陈赓"
+	{
+		fontsize="18";
+		label="陈赓家族";
+		陈赓;陈知非;陈知建;陈知庶;陈知涯;
+	}
+
+	subgraph "cluster_黄克诚"
+	{
+		fontsize="18";
+		label="黄克诚家族";
+		黄克诚;黄煦;黄晴;黄浦;
+	}
+
+	subgraph "cluster_徐海东"
+	{
+		fontsize="18";
+		label="徐海东家族";
+		徐海东;徐文伯;
+	}
+
+	subgraph "cluster_粟裕"
+	{
+		fontsize="18";
+		label="粟裕家族";
+		粟裕;粟戎生;粟志军;粟寒生;粟惠宁;
+	}
+
+}
